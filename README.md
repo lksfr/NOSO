@@ -1,4 +1,4 @@
-# Noso_NYCDSA_Fall_2018
+# NOSO_NYCDSA_Fall_2018
 
 Please use .pkl data!
 
