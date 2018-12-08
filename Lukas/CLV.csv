@@ -1,0 +1,1565 @@
+,ID,CLV,Percentile,Target_Group
+0, 105 Arbor Park Drive,2681.17,0.89,Gold
+1, 1428 212 street,891.84,0.41,Bronze
+2,"1 Abbott Road, Unit 68",540.79,0.08,Low Priority
+3,1 David N Meyers Parkway,633.23,0.16,Low Priority
+4,1 Depot Pl,685.18,0.23,Low Priority
+5,"1 Lido Blvd , Apt 1C",6854.8,0.97,Gold
+6,1 Long Wharf Street,552.1,0.09,Low Priority
+7,1 McMahon Lane,576.42,0.11,Low Priority
+8,"1 North Forest Beach, Unit 107",748.26,0.3,Bronze
+9,"1 Parker Ave, #1208",2478.65,0.88,Gold
+10,"1 Promenade Circle, Unit #B204",519.65,0.05,Low Priority
+11,1 Water Street,1377.74,0.68,Silver
+12,1 barnes circle,794.5,0.34,Bronze
+13,1 greenwood court,530.8,0.07,Low Priority
+14,1 nutmeg drive,519.65,0.05,Low Priority
+15,10 Bush Lane,2717.95,0.89,Gold
+16,10 High ridge Rd,25863.48,1.0,Gold
+17,10 Howland Road,1655.75,0.77,Gold
+18,"10 Old Clairton Road , Suite 3",891.84,0.41,Bronze
+19,"10 Old Clairton Road, Suite 3",7935.67,0.98,Gold
+20,"10 SAN ROMANO WAY , 1803",576.92,0.12,Low Priority
+21,10 San Romanoway,649.51,0.18,Low Priority
+22,10 Schooleys Mountain Road,1377.74,0.68,Silver
+23,10 Symphony Road,1069.35,0.55,Silver
+24,"10 W Broadway, 3H",563.97,0.1,Low Priority
+25,"10 WITHERELL ST, APT 505",80.64,0.0,Low Priority
+26,10 ledge rd,2179.01,0.86,Gold
+27,10 swamp rd,617.85,0.15,Low Priority
+28,"10 west 33rd street room 210 , 210",4464.8,0.94,Gold
+29,100 5th st s,519.65,0.05,Low Priority
+30,100 Ashton Road 1st Floor,1377.74,0.68,Silver
+31,100 E. 5th Avenue,1377.74,0.68,Silver
+32,"100 I Street, NW, Apt. 1207",1572.97,0.75,Silver
+33,1000 Government St Ste C,857.96,0.39,Bronze
+34,1000 North Olive Avenue,1129.11,0.58,Silver
+35,1000 S State Street,929.19,0.44,Bronze
+36,1000 Speckledwood Manor Ct.,2377.42,0.87,Gold
+37,1002 Concord Ave,400.74,0.02,Low Priority
+38,1002 Concord avenue,725.77,0.27,Bronze
+39,101 A Avenue,1575.95,0.75,Silver
+40,101 E Main St,748.26,0.3,Bronze
+41,101 Liberty Street,8507.7,0.98,Gold
+42,"101 West 143rd Street, Apt. 6",202.9,0.01,Low Priority
+43,"101 settlers trace blvd , 1002",685.18,0.23,Low Priority
+44,101 yorkville ave,1129.11,0.58,Silver
+45,1017 Park Boulevard,1198.29,0.61,Silver
+46,1018 Howard Street,748.26,0.3,Bronze
+47,"101E. Camino Real, Apt #1026",3375.57,0.92,Gold
+48,102 Ann Mary Brown Dr,798.64,0.35,Bronze
+49,102 Ann Mary brown drive,589.51,0.13,Low Priority
+50,102 Copper Hills Drive,1499.13,0.72,Silver
+51,102 Lemley Drive,1198.29,0.61,Silver
+52,102 ann mary brown drive,4833.35,0.95,Gold
+53,1020 Cranston street,748.26,0.3,Bronze
+54,1020 Holly Circle,1655.75,0.77,Gold
+55,"10200 Hempstead Rd, 1-H",475.93,0.03,Low Priority
+56,"1025 Westminster Mall, #2072",748.26,0.3,Bronze
+57,103 Louisiana Ave,666.8,0.21,Low Priority
+58,103 Louisiana Avenue,509.75,0.04,Low Priority
+59,"1030 Woodstock Road, Suite 3114",666.8,0.21,Low Priority
+60,10320 South Barnsley Dr ,666.8,0.21,Low Priority
+61,10320 South Barnsley Drive,492.26,0.03,Low Priority
+62,10320 south Barnsley drive,840.14,0.38,Bronze
+63,10344 82 Avenue,617.85,0.15,Low Priority
+64,1039 Evesham Ave,649.51,0.18,Low Priority
+65,10394 NY-149,3092.55,0.91,Gold
+66,104 Penns Manor Drive,666.8,0.21,Low Priority
+67,104 S Central Ave,1870.69,0.82,Gold
+68,104 Spring Valley Way,2277.05,0.86,Gold
+69,1041 S. Main,11772.39,0.99,Gold
+70,105 Clock Tower SQ,1750.33,0.8,Gold
+71,105 Elm Street,552.1,0.09,Low Priority
+72,105 Kings Hwy E,432.57,0.02,Low Priority
+73,10523 SW 161st PL,704.79,0.25,Low Priority
+74,"1055 West 7th Street, LACBA, Ste. 2700",1129.11,0.58,Silver
+75,10553 Avenue L,857.96,0.39,Bronze
+76,1059 Mantua Pike,1069.35,0.55,Silver
+77,106 Chestnut St #1,320.64,0.02,Low Priority
+78,106 North Main Street,827.02,0.37,Bronze
+79,106 Union Wharf,519.65,0.05,Low Priority
+80,106 W. State Street,1655.75,0.77,Gold
+81,10646 Sandpiper Court,563.97,0.1,Low Priority
+82,"1065  Greene Ave, Apt 3",725.77,0.27,Bronze
+83,1065 Cork Rd,857.96,0.39,Bronze
+84,1065 Cork Road,827.02,0.37,Bronze
+85,10686 Urban St,1279.74,0.64,Silver
+86,107 Main St.,1499.13,0.72,Silver
+87,107 N Main St,496.81,0.03,Low Priority
+88,107 Orchard Ave,649.51,0.18,Low Priority
+89,1070 POST RD,772.48,0.33,Bronze
+90,10753 87th street,2747.68,0.89,Gold
+91,108 Elm Street,1279.74,0.64,Silver
+92,"108 Main Ave E, PO Box 609",1536.52,0.74,Silver
+93,108 Runningdeer Dr,369.9,0.02,Low Priority
+94,1081 Inman Ave,891.84,0.41,Bronze
+95,"10813 NW 30th Street, BUILDING 115 WEB 83562",603.3,0.14,Low Priority
+96,10824 hob nail court,937.2,0.45,Bronze
+97,1084 Northeast 209th Terrace,1499.13,0.72,Silver
+98,1089 Bald Eagle Drive,1279.74,0.64,Silver
+99,"109 Rockaway parkway, 2F, Basement",1499.13,0.72,Silver
+100,"109 W Fourth St, Suite D",540.79,0.08,Low Priority
+101,109 W. Fourth Street,7379.38,0.97,Gold
+102,1098 Pleasant St,1594.71,0.75,Silver
+103,11 Cottrell Street,4351.71,0.94,Gold
+104,"11 Fox Chase Circle , 58",1279.74,0.64,Silver
+105,11 Francis Pl,798.64,0.35,Bronze
+106,11 Jonah Road,685.18,0.23,Low Priority
+107,11 Roselawn Lane,2042.12,0.85,Gold
+108,11 Timbercrest Lane,719.61,0.25,Bronze
+109,"11 Timbercrest Lane, South Setauket",1017.0,0.51,Silver
+110,11 dock lane,1177.24,0.59,Silver
+111,11 dock lane ,1017.0,0.51,Silver
+112,11 east tioga at,1252.14,0.62,Silver
+113,11 jonah road,1029.13,0.53,Silver
+114,"11-05 30th road, 3n",827.02,0.37,Bronze
+115,110-58 166th street,1069.35,0.55,Silver
+116,"1101 east grand avenue, O-11",633.23,0.16,Low Priority
+117,11020 Bitternut Hickory Lane,1198.29,0.61,Silver
+118,1105 West Main Street,1017.0,0.51,Silver
+119,1106 3rd Ave,589.51,0.13,Low Priority
+120,111 Cherrywood Drive,1198.29,0.61,Silver
+121,"111 Lee Highway, po box 586, The Fashion Gallery",1655.75,0.77,Gold
+122,111 W Evans St,1737.43,0.8,Gold
+123,111 greendale dr,929.19,0.44,Bronze
+124,"11100 riverside drive, , 212",798.64,0.35,Bronze
+125,11119 glenside avenue,857.96,0.39,Bronze
+126,1115 Churchman's Road,666.8,0.21,Low Priority
+127,112 E. Main St.,5052.28,0.96,Gold
+128,112 indian trl s,891.84,0.41,Bronze
+129,1121 Jackson St NE,2029.48,0.85,Gold
+130,"1121 Jackson St NE, Suite 136",2796.86,0.89,Gold
+131,1121 Jackson st NE,633.23,0.16,Low Priority
+132,1126 Horsham Road,1198.29,0.61,Silver
+133,1128 Hightower Place Drive,1069.35,0.55,Silver
+134,11300 NW 8th street,540.79,0.08,Low Priority
+135,1132 S. CHARLES ST.,8868.46,0.98,Gold
+136,11326 47th Ave SE,748.26,0.3,Bronze
+137,1139 Jericho Turnpike,1017.0,0.51,Silver
+138,114 Chestnut Ln,748.26,0.3,Bronze
+139,114 Meadow Park Drive,1475.13,0.71,Silver
+140,114 N 16th St,891.84,0.41,Bronze
+141,114 commack road,970.64,0.46,Bronze
+142,11404 Beach Channel Dr,8161.19,0.98,Gold
+143,"11411 SW 45th Manor, Unit 9-206",563.97,0.1,Low Priority
+144,11456 mallard creek trl,1435.21,0.7,Silver
+145,115 Gorham Road,2593.02,0.88,Gold
+146,"11501 WALTON LAKE RD, null",798.64,0.35,Bronze
+147,11501 Walton Lake Road,798.64,0.35,Bronze
+148,11511 133rd St E,891.84,0.41,Bronze
+149,116 Clay Avenue,4207.44,0.94,Gold
+150,116 E 4th St,3542.63,0.93,Gold
+151,116 W. CENTRAL AVE.,901.22,0.42,Bronze
+152,"116 West Illinois Street, 6W",1545.05,0.74,Silver
+153,116 Woodlawn Avenue,1101.61,0.57,Silver
+154,116 devon st apt 2,633.23,0.16,Low Priority
+155,1160 Broadway ,1279.74,0.64,Silver
+156,11609 Knox Street,1595.3,0.75,Silver
+157,117 Bay Street,2908.31,0.9,Gold
+158,117 West High Street,589.51,0.13,Low Priority
+159,1175 Hebron Ave,603.3,0.14,Low Priority
+160,1179 MAIN ST,1870.69,0.82,Gold
+161,118 Frosted Pond Pl,929.19,0.44,Bronze
+162,"11801 NW 100TH RD, STE 1",563.97,0.1,Low Priority
+163,11816 Smoketree Road,798.64,0.35,Bronze
+164,1189 Post Road,5029.48,0.96,Gold
+165,119 Winter st,685.18,0.23,Low Priority
+166,11925 193rd St,1017.0,0.51,Silver
+167,12 E33rd st FL3,576.42,0.11,Low Priority
+168,"12 East 86th Street, APT 632",970.64,0.46,Bronze
+169,12 Main Street,857.96,0.39,Bronze
+170,"120 Erskine Pl, Apt 15A",798.64,0.35,Bronze
+171,120 Student Union,748.26,0.3,Bronze
+172,120 Thornhill Lane,666.8,0.21,Low Priority
+173,"120 Water Street , Suite 104",7246.0,0.97,Gold
+174,"1200 South Waldron, Suite 133",1377.74,0.68,Silver
+175,1201 Herr Lane,1198.29,0.61,Silver
+176,"1209 G Street Southeast, Unit 6",1279.74,0.64,Silver
+177,1210 Avenue j,685.18,0.23,Low Priority
+178,"1210 Hamburg turnpike, #4",2017.29,0.84,Gold
+179,12108 Madison Ave,1655.75,0.77,Gold
+180,1213 President St.,827.02,0.37,Bronze
+181,"1220 race street, #27008",519.65,0.05,Low Priority
+182,"1221 Broadway, Ste 700",492.24,0.03,Low Priority
+183,12216 Ocean Gtwy Ste 900,565.64,0.11,Low Priority
+184,"12216 ocean gateway , 1300",315.38,0.01,Low Priority
+185,1225 NE176th ST,1870.69,0.82,Gold
+186,1228 SOuth Pleasantburg,3774.06,0.93,Gold
+187,"1228 guilford college road, 106",243.65,0.01,Low Priority
+188,123 Haddon Avenue,1279.74,0.64,Silver
+189,1239 Broadway,4248.48,0.94,Gold
+190,"1239 Broadway, FLR1",201.44,0.01,Low Priority
+191,"1239 Broadway, Floor 1 - US Jewelry House Web Dept",704.79,0.25,Low Priority
+192,"1239 Broadway, Flor 1 - US Jewelry House",704.79,0.25,Low Priority
+193,"1239 broadway, 1sr floor",1354.7,0.66,Silver
+194,1246 10th Street Lane Northwest,1198.29,0.61,Silver
+195,"1255 NW29th ave, c",509.75,0.04,Low Priority
+196,1262 Bergen ave ,748.26,0.3,Bronze
+197,"1265 15th st, Suite 7B",505.17,0.04,Low Priority
+198,"12703 Sunset Ave, Suite 3",1499.13,0.72,Silver
+199,12742 hillmeade station drive,755.11,0.32,Bronze
+200,1275 Main St ,1872.56,0.83,Gold
+201,1280 Centre Street,617.85,0.15,Low Priority
+202,1281 ELLEN RAY LANE ,324.9,0.02,Low Priority
+203,1285 Grandview Avenue,11409.3,0.99,Gold
+204,1285 grandview avenue,649.51,0.18,Low Priority
+205,129 Turner Lane,1967.97,0.84,Gold
+206,"1296 Hwy 138, Suite 106",748.26,0.3,Bronze
+207,13 Birch Grove,1655.75,0.77,Gold
+208,130 E College Ave,11750.17,0.99,Gold
+209,130 River Landing Dr   Ste. 12-A,979.75,0.48,Bronze
+210,"130 River Landing Dr. , Ste. 12-A",970.64,0.46,Bronze
+211,130 Vintage Park Blvd Ste F,1946.67,0.84,Gold
+212,"130 W. Gurley, #36",725.77,0.27,Bronze
+213,13025 Mulberry Park Drive #327,704.79,0.25,Low Priority
+214,1306 W. Market St.,1934.62,0.83,Gold
+215,13089 Ocean Hwy Suite A2,2498.9,0.88,Gold
+216,"13089 Ocean Hwy, STE A2",725.77,0.27,Bronze
+217,131 Dawson Street,1069.35,0.55,Silver
+218,"131 south main street, c",1622.53,0.75,Gold
+219,13103 Crookston Lane #210,970.64,0.46,Bronze
+220,1311 Delaware Avenue,13125.91,0.99,Gold
+221,13119 Shaker Square,1671.69,0.79,Gold
+222,1317 Pine Cir.,633.23,0.16,Low Priority
+223,132 s olive st,563.97,0.1,Low Priority
+224,133 centennial drive,2587.61,0.88,Gold
+225,134 Lake Blvd,509.75,0.04,Low Priority
+226,134 West High Street,965.84,0.45,Bronze
+227,1346 Shermer Road,1017.0,0.51,Silver
+228,1347 Park St Apt A,748.26,0.3,Bronze
+229,"1347 Park Street, Unit A",685.18,0.23,Low Priority
+230,1348 park st ,772.48,0.33,Bronze
+231,135 Merrick ave,519.65,0.05,Low Priority
+232,"1362 Vineyard St, 2093",529.98,0.07,Low Priority
+233,"1363 N. 31st St, Apt 312",2359.43,0.87,Gold
+234,137 Egg Harbor Rd,1924.17,0.83,Gold
+235,137 Hemlock lane,1930.69,0.83,Gold
+236,137 Main St,1017.0,0.51,Silver
+237,1371 Charles Willard St.,1377.74,0.68,Silver
+238,13746 Regency Ct.,1198.29,0.61,Silver
+239,1375 Mineral Spring Ave,1017.0,0.51,Silver
+240,138 main st,3848.19,0.93,Gold
+241,1382b. Beacon Street,3918.63,0.93,Gold
+242,1390 george street ,1411.68,0.7,Silver
+243,14 Fruit St,929.19,0.44,Bronze
+244,14 High Farms Road,1017.0,0.51,Silver
+245,"14 LOT AGAT, IMMEUBLE TECHNOPOLIS 2",1069.35,0.55,Silver
+246,14 Poppy Lane,1655.75,0.77,Gold
+247,14 Rolling Hill Road,1499.13,0.72,Silver
+248,14 potomac rd,509.75,0.04,Low Priority
+249,14 w gay street,3143.64,0.91,Gold
+250,140 Point Judith Road,1537.6,0.74,Silver
+251,140 SOUTH MAIN,1499.13,0.72,Silver
+252,"140 South Dixie Highway, apt 510",5506.61,0.96,Gold
+253,140 monroe turnpike,2674.19,0.89,Gold
+254,"1400 P Street, 226",1069.35,0.55,Silver
+255,14002 Loblolly Terrace,2884.17,0.9,Gold
+256,"1407 Broadway, 400",748.26,0.3,Bronze
+257,"1407 Clarkview Road, Suite 500",891.84,0.41,Bronze
+258,1408 Hopmeadow St,509.75,0.04,Low Priority
+259,"14130 Noblewood Plaza, #304",748.26,0.3,Bronze
+260,1414 Creston St,1532.15,0.74,Silver
+261,142 Kings Highway East,1870.69,0.82,Gold
+262,1423 ocean street,509.75,0.04,Low Priority
+263,14232 Platinum Drive ,476.63,0.03,Low Priority
+264,143 corporate place,5156.45,0.96,Gold
+265,1430 Boston Post Road,2213.7,0.86,Gold
+266,1432 Nicklaus Drive,4030.22,0.94,Gold
+267,14343 Jarrettsville Pike,725.77,0.27,Bronze
+268,1438 Nottingham Drive,970.64,0.46,Bronze
+269,"1439 david avenue, 203",1129.11,0.58,Silver
+270,144 North Queen Street,1017.0,0.51,Silver
+271,144 Round Cove Road,891.84,0.41,Bronze
+272,1440 Ribaut Road,563.97,0.1,Low Priority
+273,14431 Old Bond St,61.21,0.0,Low Priority
+274,"1449 Boardman Canfield Rd, E J Hannah",8621.43,0.98,Gold
+275,145 Culver Rd,1328.46,0.66,Silver
+276,145 Main St,6850.44,0.97,Gold
+277,145-B SYCAMORE ST,666.8,0.21,Low Priority
+278,1452 Haight Street,1218.12,0.62,Silver
+279,1459 Canterbury Rd,1008.11,0.48,Bronze
+280,14701 GREEN VALLEY BLVD,649.51,0.18,Low Priority
+281,148 Brighton Ave,519.65,0.05,Low Priority
+282,1483 Canterbury Rd,929.19,0.44,Bronze
+283,149 E. PLEASANT STREET,970.64,0.46,Bronze
+284,149 Rehoboth Ave,748.26,0.3,Bronze
+285,14923 NY-30,3060.74,0.91,Gold
+286,15 Camberley place,1968.97,0.84,Gold
+287,"15 DINEV ROAD, #301",929.19,0.44,Bronze
+288,15 Depot Ct,1499.13,0.72,Silver
+289,15 Depot Ct.,2500.8,0.88,Gold
+290,"15 Dinev Road, APT 301",552.1,0.09,Low Priority
+291,"15 East Kirby, #110",748.26,0.3,Bronze
+292,15 Ellis Drive,440.1,0.03,Low Priority
+293,15 Ellisdrive,375.22,0.02,Low Priority
+294,15 Olcott Square,922.05,0.42,Bronze
+295,15 Rugby Rd,1017.0,0.51,Silver
+296,"15 muñoz Rivera, 1400",1069.35,0.55,Silver
+297,150 Main Street,1069.35,0.55,Silver
+298,150-47b 14th ave,685.18,0.23,Low Priority
+299,1500 Arch St,1017.0,0.51,Silver
+300,15000 HARROWGATE RD,603.3,0.14,Low Priority
+301,1502 Antelope Run,1870.69,0.82,Gold
+302,"1508 poolside lane, 309",857.96,0.39,Bronze
+303,151 East Upper Wacker Drive,1499.13,0.72,Silver
+304,151 South Tustin Street,1655.75,0.77,Gold
+305,"15107 spring glen, n/a",649.51,0.18,Low Priority
+306,1523 N. Thompson Dr.,820.41,0.36,Bronze
+307,1528 east 37th street,1703.84,0.8,Gold
+308,153 Temple Hill Rd,1633.78,0.75,Gold
+309,"1531 NW 153rd street, Miami Gardens",685.18,0.23,Low Priority
+310,1535 Sheffield Road,666.8,0.21,Low Priority
+311,"1555 NW 82nd, ave, Doral florida. zip code 33126 1019",857.96,0.39,Bronze
+312,"1560 South Dixie Hwy , Suite 101",583.27,0.12,Low Priority
+313,1571 Morris ave,552.1,0.09,Low Priority
+314,"1572 216 street, 2fl side entrance",666.8,0.21,Low Priority
+315,1574 Gulf Road #42403,2995.76,0.91,Gold
+316,"1574 Gulf Road, #42403",704.79,0.25,Low Priority
+317,1575 Outlet Center Drive,649.51,0.18,Low Priority
+318,158 East Main Street,891.84,0.41,Bronze
+319,1581 Route 202,748.26,0.3,Bronze
+320,159 Craigie Street,633.23,0.16,Low Priority
+321,15914 Luxembourg Drive,1499.13,0.72,Silver
+322,"15935 NW 49TH AVENUE, BOX T1247",206.1,0.01,Low Priority
+323,15W 28TH STREET,552.1,0.09,Low Priority
+324,16 Beech Hollow court,891.84,0.41,Bronze
+325,"16 East 34th Street, 16th Fl",1909.11,0.83,Gold
+326,16 Sandy Lane ,891.84,0.41,Bronze
+327,160 Morehouse Rd,1017.0,0.51,Silver
+328,160 North Gulph Rd,929.19,0.44,Bronze
+329,160 Sylvan Street,1069.35,0.55,Silver
+330,"160-40 78th Road, Suite 101",2296.08,0.87,Gold
+331,1600 Division Road,16930.99,0.99,Gold
+332,"1600 Division Road, Crimzon Rose",929.19,0.44,Bronze
+333,1600 Division Street,3611.93,0.93,Gold
+334,1600 main st,318.42,0.02,Low Priority
+335,"16001 Collins Av., apt 2303",1518.91,0.74,Silver
+336,"1601 Concord Pike, Ste. 81",1017.0,0.51,Silver
+337,"1601 Concord Pike, Suite 81",563.97,0.1,Low Priority
+338,1601 ORION LANE,1684.77,0.8,Gold
+339,1602 New Rd,922.4,0.43,Bronze
+340,1602 New Road,1198.29,0.61,Silver
+341,1604 Treelodge Parkway,1655.75,0.77,Gold
+342,1604 W. State St.,1017.0,0.51,Silver
+343,1614 Wharton Street,2422.55,0.87,Gold
+344,1615 Alvarado Street,725.77,0.27,Bronze
+345,1616 W. EASTBROOK COURT,529.98,0.07,Low Priority
+346,1618 Post Road,772.48,0.33,Bronze
+347,162 Mountainside Drive,798.64,0.35,Bronze
+348,162 Paxton Road,1279.74,0.64,Silver
+349,1621 wallace st ,1377.74,0.68,Silver
+350,16263 SW 81st,589.51,0.13,Low Priority
+351,"1633 San Marco , 3",685.18,0.23,Low Priority
+352,165 Flintlock Dr,798.64,0.35,Bronze
+353,165 Flintlock Drive,1655.75,0.77,Gold
+354,165 flintlock dr,1405.09,0.7,Silver
+355,165 flintlock drive ,3315.15,0.92,Gold
+356,"1655 BOSTON ROAD , UNIT 107",1377.74,0.68,Silver
+357,166 Bridgeport ave,1042.82,0.53,Silver
+358,166 bridgeport ave,1319.03,0.66,Silver
+359,"1660 Madison Avenue, 5f",1655.75,0.77,Gold
+360,16641 Lathrop Dr.,772.48,0.33,Bronze
+361,"16645 Highland Road, Suite G",2523.78,0.88,Gold
+362,169 West Front St.,1346.12,0.66,Silver
+363,169 west evans street,649.51,0.18,Low Priority
+364,1695 W. INDIANTOWN RD. SUITE 15,529.98,0.07,Low Priority
+365,17  Silverthorne Drive,589.51,0.13,Low Priority
+366,17 Causeway Drive,827.02,0.37,Bronze
+367,17 Clover Lane,1198.29,0.61,Silver
+368,17 DOCK SQUARE,666.8,0.21,Low Priority
+369,17 East Brook Drive,380.75,0.02,Low Priority
+370,17 East Monroe Street,748.26,0.3,Bronze
+371,17 N 7th Street,2977.72,0.9,Gold
+372,17 New Woods Road,891.84,0.41,Bronze
+373,17 S Boulevard of the Presidents,552.1,0.09,Low Priority
+374,17 Smith Street,1655.75,0.77,Gold
+375,17 Squires Street Square NE,1129.11,0.58,Silver
+376,17 way road ,1115.69,0.57,Silver
+377,"170 Sayebrook Pkwy, Unit 1",1109.4,0.57,Silver
+378,170 Sayebrook pkwy Unit 1,827.02,0.37,Bronze
+379,170 Westwood Avenue,3358.34,0.92,Gold
+380,"17001 collins av, Apt 4501",1385.73,0.7,Silver
+381,"1701 37th St, Apt 1111",929.19,0.44,Bronze
+382,"1701 N KENT ST , 1105",1069.35,0.55,Silver
+383,1701 N. Federal Hwy,725.77,0.27,Bronze
+384,"1701 s. alexander street , suite 102",633.23,0.16,Low Priority
+385,17032 palm pointe dr,1458.8,0.7,Silver
+386,1705 S. Prospect,1293.12,0.66,Silver
+387,17118 Kercheval Ave,1655.75,0.77,Gold
+388,1714 Stafford Street,1499.13,0.72,Silver
+389,"1720  S State Rd 7, #308",929.19,0.44,Bronze
+390,1721 acushnet ave ,2105.53,0.85,Gold
+391,1725 Pontiac Ave,2113.43,0.85,Gold
+392,1725 Pontiac Avenue,666.8,0.21,Low Priority
+393,1725 pontiac ave,732.99,0.28,Bronze
+394,17269 Hampton Blvd,233.36,0.01,Low Priority
+395,1729 Kenyon Street NW,1017.0,0.51,Silver
+396,173 South Seguin Ave,748.26,0.3,Bronze
+397,1740 Yellowheart Way,1377.74,0.68,Silver
+398,1745 Blalock st ,529.98,0.07,Low Priority
+399,1770 NW 96th Ave.,1198.29,0.61,Silver
+400,"1777 London Bridge Rd, Suite 103",1377.74,0.68,Silver
+401,17854 Mack Ave,725.77,0.27,Bronze
+402,18 Creamery Drive,1460.7,0.7,Silver
+403,18 Market St,974.77,0.48,Bronze
+404,180 Clearwater Drive,461.73,0.03,Low Priority
+405,181 9th street,796.27,0.34,Bronze
+406,"18101 Collins Ave , 607",929.19,0.44,Bronze
+407,18101 Collins Ave.  #607,6268.29,0.96,Gold
+408,1812 S.W. 18th Street,748.26,0.3,Bronze
+409,1813 Bunting Way Dr,1279.74,0.64,Silver
+410,1815 Barrington Overlook,1854.92,0.81,Gold
+411,1818 kimball street,1059.05,0.53,Silver
+412,"1819 E Republican St., Apt. 203",1129.11,0.58,Silver
+413,182 Birch Hill Rd,2271.64,0.86,Gold
+414,182 India St. #3L,1116.6,0.57,Silver
+415,182 Park Avenue,2823.34,0.9,Gold
+416,182-21 150th Avenue,970.64,0.46,Bronze
+417,182-21 150th Avenue DXB 2534 Springfield Gardens ,1069.35,0.55,Silver
+418,"182-21 150th Avenue, DUR323",1017.0,0.51,Silver
+419,1825 Madison Avenue 2L,1279.74,0.64,Silver
+420,1826 Calle Belleza,3399.66,0.92,Gold
+421,18266 Marlowe ,2237.54,0.86,Gold
+422,1836 E. Elizabeth Ave,457.82,0.03,Low Priority
+423,1836 Weston Road,1377.74,0.68,Silver
+424,185 Changebridge Road,1069.35,0.55,Silver
+425,1850 Penfield Rd,685.18,0.23,Low Priority
+426,1850 mcdonald ave ,1069.35,0.55,Silver
+427,186 Griffith St.,1129.11,0.58,Silver
+428,1865 Graves Road,1870.69,0.82,Gold
+429,187 South Main St,4805.41,0.95,Gold
+430,187 somerset st,970.64,0.46,Bronze
+431,18701 Windy Knoll Drive,1198.29,0.61,Silver
+432,1885 E BIG BEAVER RD,633.23,0.16,Low Priority
+433,189 Larchmont Avenue,1643.04,0.75,Gold
+434,18935 west dixie highway,1941.49,0.83,Gold
+435,19 Rose Lane,2011.49,0.84,Gold
+436,19 Seacliff Ave,897.15,0.42,Bronze
+437,19 W 34th St Rm 806,828.49,0.38,Bronze
+438,19 W Granada Ave,289.74,0.01,Low Priority
+439,19 cedar rd,48.21,0.0,Low Priority
+440,19 maple Street,603.3,0.14,Low Priority
+441,19 sunflower way,5762.73,0.96,Gold
+442,190 Florida Park Road,1017.0,0.51,Silver
+443,190 Florida park rd,1017.0,0.51,Silver
+444,"1901 Brickell Avenue, APT.BPH-7",1499.13,0.72,Silver
+445,1902 w montrose ave,685.18,0.23,Low Priority
+446,1904 ATLANTIC AVENUE,857.96,0.39,Bronze
+447,1908 Haven Bend,29190.17,1.0,Gold
+448,"1916 Sam Rittenberg Blvd, #208",1198.29,0.61,Silver
+449,"1921 8th Street NW, Suite 110",891.84,0.41,Bronze
+450,"1924 8th St NW, 115",11390.9,0.99,Gold
+451,"1924 8th St NW, 130",6791.66,0.97,Gold
+452,193 Brook Street,1655.75,0.77,Gold
+453,"193 Tenby Chase Drive, S251",1499.13,0.72,Silver
+454,1933 regent st s,617.85,0.15,Low Priority
+455,19400 COLCHESTER ROAD,1871.17,0.83,Gold
+456,195 Boston post road,1617.51,0.75,Gold
+457,195 Mowbray Road,223.61,0.01,Low Priority
+458,1950 Butler Pike,1017.0,0.51,Silver
+459,1954 Rock Springs Circle,552.1,0.09,Low Priority
+460,1959 Wickford Road,649.51,0.18,Low Priority
+461,196 Santa Monica Drive,1965.72,0.84,Gold
+462,197 O'Neill st,1198.29,0.61,Silver
+463,1977 Eagle Pointe,576.42,0.11,Low Priority
+464,1980 crompond rd.,3828.57,0.93,Gold
+465,"199 OCEAN LANE DR , 213",1069.35,0.55,Silver
+466,"199 Ocean Lane dr, Apt 601",1198.29,0.61,Silver
+467,19b west bridge street,666.8,0.21,Low Priority
+468,"2 Cabot road , Northeast market center",563.97,0.1,Low Priority
+469,2 Macdonald Avenue,704.79,0.25,Low Priority
+470,"2 Miranova Pl, Suite 280",509.75,0.04,Low Priority
+471,2 Ridgewood Ln,1017.0,0.51,Silver
+472,2 ridgewood lane,3928.67,0.93,Gold
+473,20 Montchanin Road,827.02,0.37,Bronze
+474,20 Screven Ct,798.64,0.35,Bronze
+475,"20 W. 33rd st, 6th floor",748.26,0.3,Bronze
+476,20 church street,756.01,0.32,Bronze
+477,200 Crakston Ct,995.85,0.48,Bronze
+478,200 Edmonds Avenue,1069.35,0.55,Silver
+479,200 Frank Rd,1298.23,0.66,Silver
+480,200 Gardiner Road,2813.55,0.9,Gold
+481,200 Lansdowne Rd,1017.0,0.51,Silver
+482,"200 S Broad Street, Lobby #4",347.73,0.02,Low Priority
+483,200 Samara St. Apt 27A ,1069.35,0.55,Silver
+484,"200 W 72nd Street, Apt 3F",970.64,0.46,Bronze
+485,200 w. golf road,1255.97,0.62,Silver
+486,"2000 arrowcreek dr, 104",603.3,0.14,Low Priority
+487,2009 wilson ave,1129.11,0.58,Silver
+488,"201 Southeast 2nd Avenue, 505",1870.69,0.82,Gold
+489,201 Victoria Dr,1017.0,0.51,Silver
+490,"201 W Hillside Rd, Suite #15",748.26,0.3,Bronze
+491,"2010 E President St, 2319",1279.74,0.64,Silver
+492,20100 chagrin blvd,970.64,0.46,Bronze
+493,2014 s 6th st,1198.29,0.61,Silver
+494,2021 Highland Avenue,1842.32,0.81,Gold
+495,2021 Oceanview road,827.02,0.37,Bronze
+496,2026 Chestnut Street,10434.9,0.98,Gold
+497,202B South Park Ave,827.02,0.37,Bronze
+498,"203 Enchanted Parkway, 8",1129.11,0.58,Silver
+499,2035 Cameron St,725.77,0.27,Bronze
+500,2035 S. Alma School RD,633.23,0.16,Low Priority
+501,204  8th ave,748.26,0.3,Bronze
+502,204 8th Ave,1279.74,0.64,Silver
+503,204 Lazarre Ave,1377.74,0.68,Silver
+504,2048 Northwest 10th Avenue,1129.11,0.58,Silver
+505,205 Maple Ave,1655.75,0.77,Gold
+506,"205 N Atlantic Ave, #3",975.74,0.48,Bronze
+507,"205 NORTH ATLANTIC AVE., 3",312.98,0.01,Low Priority
+508,"205 North Atlantic Ave, #3",479.34,0.03,Low Priority
+509,"205 North Atlantic Ave, shop#3",3404.79,0.92,Gold
+510,"2050  Central Road, 609",1655.75,0.77,Gold
+511,20508 Irvington St,748.26,0.3,Bronze
+512,20577 E Oak Meadow Ln,603.3,0.14,Low Priority
+513,206 Main Street,1211.13,0.62,Silver
+514,2070 Ocean Parkway,529.98,0.07,Low Priority
+515,20755 Myers Place,827.02,0.37,Bronze
+516,"2077 West Shore Rd , Unit 1",617.85,0.15,Low Priority
+517,2077 West Shore Rd Unit 1,324.59,0.02,Low Priority
+518,2077 West Shore Road,772.48,0.33,Bronze
+519,"20771 n rand rd , b4a",1499.13,0.72,Silver
+520,"208 Ponce de Leon Ave, Ste G05",748.26,0.3,Bronze
+521,209 West 28th Street,509.75,0.04,Low Priority
+522,2091 Stirrup Path,1389.47,0.7,Silver
+523,20916 Higgins Court,833.47,0.38,Bronze
+524,21 Calaman Road,891.84,0.41,Bronze
+525,21 Chapel Woods West,633.23,0.16,Low Priority
+526,21 LEXINGTON AVE # C,1019.25,0.53,Silver
+527,21 Mill Street,8539.36,0.98,Gold
+528,21 Waterford Lane,1017.0,0.51,Silver
+529,21 Wianno Ave,2485.75,0.88,Gold
+530,21 white deer plaza,621.28,0.16,Low Priority
+531,"210 Howe Avenue, 2 floor ",1857.2,0.81,Gold
+532,"2100 Brooks Drive, #713",1279.74,0.64,Silver
+533,"211 Bedford Park Blvd, Apt. 4B",1655.75,0.77,Gold
+534,211 Clover Lane Suite H,685.18,0.23,Low Priority
+535,2110 Yak Trail,2697.83,0.89,Gold
+536,2110 rt 70 east,1048.97,0.53,Silver
+537,2124 Penn Avenue @22nd,2109.0,0.85,Gold
+538,213 Sloane Square Way,540.79,0.08,Low Priority
+539,2131 nw 79 ave,891.84,0.41,Bronze
+540,214 N. Main Street,3073.38,0.91,Gold
+541,215 Silver Sloop Way,4843.57,0.95,Gold
+542,"215 e franklin st, 110",1279.74,0.64,Silver
+543,2150 Noble rd,552.1,0.09,Low Priority
+544,2153 West 107th Street,970.64,0.46,Bronze
+545,218 S Canterbury Rd,2320.24,0.87,Gold
+546,218 S Canterbury rd ,1877.82,0.83,Gold
+547,218 S Newtown Street Rd,1704.4,0.8,Gold
+548,2184 4th Street,857.96,0.39,Bronze
+549,219 2nd Street,552.1,0.09,Low Priority
+550,219 B South Madison Blvd. ,617.85,0.15,Low Priority
+551,21a N. Harrison St,4510.66,0.95,Gold
+552,22 1ST ST,563.97,0.1,Low Priority
+553,22 1ST STREET ,581.71,0.12,Low Priority
+554,22 1st Street,453.15,0.03,Low Priority
+555,22 Raritan Ave,725.77,0.27,Bronze
+556,22 South 3rd Avenue,725.77,0.27,Bronze
+557,22 South White Street,519.65,0.05,Low Priority
+558,"220 Lyon ST , Suite 130",970.64,0.46,Bronze
+559,2203 Merric Rd,1017.0,0.51,Silver
+560,2203 Merrick,2409.63,0.87,Gold
+561,2203 Merrick Rd,519.65,0.05,Low Priority
+562,2203 Merrick Road,519.65,0.05,Low Priority
+563,2203 merrick rd,524.85,0.06,Low Priority
+564,221 Commercial St,7717.56,0.97,Gold
+565,221 Old Dixie Hwy # 2,1279.74,0.64,Silver
+566,2212C Holiday Manor Center,297.3,0.01,Low Priority
+567,221A Kings Highway East,3429.47,0.92,Gold
+568,2227 N. College Ave,857.96,0.39,Bronze
+569,2229 Marconi Ave,666.8,0.21,Low Priority
+570,2229 Plainfield Pike,3409.53,0.92,Gold
+571,2232 Tidal View Garth,1017.0,0.51,Silver
+572,"226 E 81st St, Apt 3C",666.8,0.21,Low Priority
+573,226 village road apte 26,970.64,0.46,Bronze
+574,2260 Andrews Avenue North,1377.74,0.68,Silver
+575,227 E. LANCASTER AVE.,2030.35,0.85,Gold
+576,227 East Blvd,772.48,0.33,Bronze
+577,227 East Lancaster Avenue,725.77,0.27,Bronze
+578,227 W. Venice Ave,552.1,0.09,Low Priority
+579,229 west 43rd street,563.97,0.1,Low Priority
+580,23 Elm Street,1655.75,0.77,Gold
+581,23 Jacqueline Road,1129.11,0.58,Silver
+582,23 cook road,519.65,0.05,Low Priority
+583,230 Lake Ave.,1894.03,0.83,Gold
+584,230 Washington Avenue,786.88,0.34,Bronze
+585,232 Stredney Road,1499.13,0.72,Silver
+586,2320 Traemoor Village Place,1999.91,0.84,Gold
+587,23202 COLUMBUS RD SUIT I,2836.31,0.9,Gold
+588,"23202 Columbus Road, suit I",1017.0,0.51,Silver
+589,2325 S BRENTWOOD BLVD,4193.74,0.94,Gold
+590,2325 S Brentwood Blvd,574.95,0.11,Low Priority
+591,2328 Champlain St NW Apt 301,1017.0,0.51,Silver
+592,234 Cardinal Leger,563.97,0.1,Low Priority
+593,"234 Columbia Ave , #15",1808.7,0.8,Gold
+594,235 Woodland Avenue,748.26,0.3,Bronze
+595,2360 west joppa,540.79,0.08,Low Priority
+596,2360 west joppa road,540.79,0.08,Low Priority
+597,237 Main St,3052.28,0.91,Gold
+598,237 Pierce Street,2229.96,0.86,Gold
+599,239 Long Point Dr,970.64,0.46,Bronze
+600,24 KENNETH TERRACE EAST,772.48,0.33,Bronze
+601,24 KENNETH TERRACE EAST ,1198.29,0.61,Silver
+602,24 N Hanover St,1069.35,0.55,Silver
+603,24 North Union Street,1499.13,0.72,Silver
+604,24 main strett,603.3,0.14,Low Priority
+605,24 town house Rd ,633.23,0.16,Low Priority
+606,240 HARTMAN BRIDGE RD,3994.13,0.93,Gold
+607,240 N End Blvd,1499.13,0.72,Silver
+608,"2403 North Washington Ave, Apt 215",817.58,0.36,Bronze
+609,"2405 West Princeton Street, Suite 1",2031.89,0.85,Gold
+610,2413 Trinity Lane,929.19,0.44,Bronze
+611,242 Hamline Ave,2787.4,0.89,Gold
+612,242 Meadow Lane,2451.64,0.88,Gold
+613,2428 deborah drive,1190.97,0.6,Silver
+614,"2439 Highway 34, WALL TOWN CENTRE",1499.13,0.72,Silver
+615,2442 Legion Street,685.18,0.23,Low Priority
+616,2445 Northview Place,857.96,0.39,Bronze
+617,245 S. First Street,1653.79,0.75,Gold
+618,"245 riverdale drive, Apt1",1279.74,0.64,Silver
+619,"2458 Apple Blossom Lane , #204",617.85,0.15,Low Priority
+620,"247 Eli Hartley, Apt 111",772.48,0.33,Bronze
+621,247 South Main Street,589.51,0.13,Low Priority
+622,"247 sussex st, 2",1377.74,0.68,Silver
+623,25 Cumberland Rd,25.01,0.0,Low Priority
+624,25 Goulden Crescent,1499.13,0.72,Silver
+625,25 W 31 st St,563.97,0.1,Low Priority
+626,"2500 E Independence Blvd, The Park",1017.0,0.51,Silver
+627,2500 Southwest 107th Avenue suite 22,1711.47,0.8,Gold
+628,"2501 13 th ave S , Apt 9 ",1655.75,0.77,Gold
+629,"2507 Central Av. #1, 2507",891.84,0.41,Bronze
+630,2509 Professor Ave.,2366.38,0.87,Gold
+631,251 candlewood lane,1184.02,0.6,Silver
+632,2515 Ann Baker Furrow Blvd,929.19,0.44,Bronze
+633,252 Closter Dock Rd,929.19,0.44,Bronze
+634,252 Leffler Cir,748.26,0.3,Bronze
+635,253 SOUTH MAIN STREET,827.02,0.37,Bronze
+636,2530 Fairmount St,725.77,0.27,Bronze
+637,2548 Orchard Lake Rd,519.65,0.05,Low Priority
+638,255 Bellevue Ave ,891.84,0.41,Bronze
+639,255 Huguenot Street,1655.75,0.77,Gold
+640,255 William Street,1596.57,0.75,Silver
+641,256 Truman st. ,1069.35,0.55,Silver
+642,2563 e 15st,603.3,0.14,Low Priority
+643,258 Haverford Avenue,827.02,0.37,Bronze
+644,25887 detroit rd,1097.69,0.57,Silver
+645,26 Broadway,725.77,0.27,Bronze
+646,26 Centre St.,5383.52,0.96,Gold
+647,26 Lark Industrial Parkway,7921.68,0.98,Gold
+648,26 Napoleon Street,929.19,0.44,Bronze
+649,26 lark industrial parkway,857.96,0.39,Bronze
+650,2600 East Griffin Pkwy,576.42,0.11,Low Priority
+651,2608 roswell ave,936.39,0.44,Bronze
+652,2611 E Tyson St,454.47,0.03,Low Priority
+653,2626 Sage Road,1129.11,0.58,Silver
+654,"265 Hawthorne Street , Apt 5C",1870.69,0.82,Gold
+655,265 N. Lamar Blvd Suite V,12148.77,0.99,Gold
+656,"267 Mill Street, 203",666.8,0.21,Low Priority
+657,2705 Belmont Lane,649.51,0.18,Low Priority
+658,271 Rele Street,685.18,0.23,Low Priority
+659,271 Rele street,827.02,0.37,Bronze
+660,27127 bennett way,519.65,0.05,Low Priority
+661,2717 Onzaga Street,1279.74,0.64,Silver
+662,2721 Cedar Ln,1490.79,0.71,Silver
+663,2732 Erie Avenue,4367.3,0.94,Gold
+664,2735 Niazuma Ave,519.65,0.05,Low Priority
+665,"27475 Ynez Rd, 357",603.3,0.14,Low Priority
+666,275 Main Street,725.77,0.27,Bronze
+667,2757 W. PRATT BLVD,929.19,0.44,Bronze
+668,2758 Bronx Park E East F1,1198.29,0.61,Silver
+669,277 s broadway,519.65,0.05,Low Priority
+670,28 Camelot Dr ,970.64,0.46,Bronze
+671,28 E Piccadilly St,2139.35,0.86,Gold
+672,"28 N. College St, Holand Union Building",633.23,0.16,Low Priority
+673,28 jfk blvd,15348.05,0.99,Gold
+674,"2800 Monticello Place, 23- 302",509.75,0.04,Low Priority
+675,2810 Crest Park Drive,1499.13,0.72,Silver
+676,"2817 West End Ave, Suite 130",970.64,0.46,Bronze
+677,"2817 West End Avenue , #120",1279.74,0.64,Silver
+678,287 Doris Ave,4533.6,0.95,Gold
+679,287 Heron Way Terrace,519.65,0.05,Low Priority
+680,"2870 Peachtree Road, #184",666.8,0.21,Low Priority
+681,28756 Plymouth rd,748.26,0.3,Bronze
+682,28756 plymouth rd,1729.09,0.8,Gold
+683,"28790 Chagrin Blvd. , Suite 100",1328.45,0.66,Silver
+684,289 Northfield Road,1499.13,0.72,Silver
+685,289 route 148,1105.56,0.57,Silver
+686,29 Spoonwood Road,1499.13,0.72,Silver
+687,29 stemple street,1017.0,0.51,Silver
+688,29-11 39th avenue ,704.79,0.25,Low Priority
+689,"29-76 Northern Blvd, 4th Floor",970.64,0.46,Bronze
+690,2901 College Ave,748.26,0.3,Bronze
+691,2903 LONG BEACH ROAD,704.79,0.25,Low Priority
+692,2908 Tallow Tree Road,1279.74,0.64,Silver
+693,"2911 N PINE ISLAND RD, APT 106",970.64,0.46,Bronze
+694,"2911 n pine island rd., 106",1017.0,0.51,Silver
+695,29124 Evergreen Road,1655.75,0.77,Gold
+696,2920 E Colfax Avenue,529.98,0.07,Low Priority
+697,"2928 Rising Sun Rd, ,",891.84,0.41,Bronze
+698,2944 beverly glen circle,791.72,0.34,Bronze
+699,2959 Fairton Tr,1279.74,0.64,Silver
+700,2965 Avenue Z - 3B,1198.29,0.61,Silver
+701,2970 Peachtree Circle,725.77,0.27,Bronze
+702,298 N Main Street,1069.35,0.55,Silver
+703,3 Campion Rd.,970.64,0.46,Bronze
+704,3 James Street,1499.13,0.72,Silver
+705,3 PICKERING DR,1610.6,0.75,Silver
+706,3 Pickering Dr,548.72,0.08,Low Priority
+707,3 Pickering Drive ,492.05,0.03,Low Priority
+708,3 Queen St,857.96,0.39,Bronze
+709,3 Rustic Lane,1279.74,0.64,Silver
+710,3 church street,325.96,0.02,Low Priority
+711,3 henderson street,772.48,0.33,Bronze
+712,"30 Beach Road, Unit 2",772.48,0.33,Bronze
+713,"30 Calle Islandia, Flamboyan Gardens",529.98,0.07,Low Priority
+714,30 Commercial Court,589.4,0.12,Low Priority
+715,30 Commercial Ct,9163.2,0.98,Gold
+716,30 Commercial St. ,704.79,0.25,Low Priority
+717,30 monmouth street,970.64,0.46,Bronze
+718,300 2nd St SE,748.26,0.3,Bronze
+719,300 2nd St. SE,2258.57,0.86,Gold
+720,"300 Park Street, Apartment 4G",929.19,0.44,Bronze
+721,"300 Red Brook Boulevard, Suite 300",633.23,0.16,Low Priority
+722,3001 Devonshire Drive,1129.11,0.58,Silver
+723,301 Cedar Ave. N.,652.03,0.2,Low Priority
+724,301 Rope Rider Dr,725.77,0.27,Bronze
+725,"301 warren avenue, #223",1017.0,0.51,Silver
+726,3010 West Cary Street,12662.72,0.99,Gold
+727,3015 7th st w apt 204,1377.74,0.68,Silver
+728,302 Division St. S.,1452.91,0.7,Silver
+729,3020 West Cary Street,1129.11,0.58,Silver
+730,3028 Tyler Way,2048.34,0.85,Gold
+731,303 Linwood Ave,1506.77,0.74,Silver
+732,3030 Orchard Park  Road,1017.0,0.51,Silver
+733,"3033 Wilson Blvd, Suite 420 c/o ACMA",657.89,0.2,Low Priority
+734,30425 n. woodridge court,827.31,0.38,Bronze
+735,"305 Church St #102 Church Street, #102",589.51,0.13,Low Priority
+736,305 Union Boulevard,4049.07,0.94,Gold
+737,3050 n university dr,928.0,0.43,Bronze
+738,"306 SW 95 Place, Miami, FL 33174",1017.0,0.51,Silver
+739,"3060 riverside dr , Apt e3 ",970.64,0.46,Bronze
+740,"30619 Pinetree Road, Landerwood Plaza",633.23,0.16,Low Priority
+741,307 SWEET GUM CT,1613.48,0.75,Silver
+742,3070 secret lake drive,725.77,0.27,Bronze
+743,308 3rd ST South,1623.07,0.75,Gold
+744,"3083 Herschel Ave., Ste 321",685.18,0.23,Low Priority
+745,31 Carlos Street ,1129.11,0.58,Silver
+746,31 Rehoboth Ave,4758.78,0.95,Gold
+747,31 Westwood Rd,1129.11,0.58,Silver
+748,31 rosemere rd,540.79,0.08,Low Priority
+749,31 w. Adams apt. 1401,1129.11,0.58,Silver
+750,"310 EAST 89TH STREET , 12",871.0,0.4,Bronze
+751,310 Park Street,970.64,0.46,Bronze
+752,310 roselle aveneue,633.12,0.16,Low Priority
+753,3103 South Highway 17 Business,772.48,0.33,Bronze
+754,3103 South Hwy 17 Business,704.79,0.25,Low Priority
+755,"3128 35TH ST, APT 2R",1328.42,0.66,Silver
+756,3129 n 22nd St,1664.61,0.79,Gold
+757,317 antelope Ave w,1377.74,0.68,Silver
+758,318 Wyndhurst Ave,912.42,0.42,Bronze
+759,319 East Lea Blvd.,666.8,0.21,Low Priority
+760,"32 Bushwick Ave, Apt 3",970.64,0.46,Bronze
+761,32 Crockett Neck Road,682.81,0.22,Low Priority
+762,32 Gionti Place,563.97,0.1,Low Priority
+763,32 Gunnamatta Loop,509.75,0.04,Low Priority
+764,320 Corlies Ave,649.51,0.18,Low Priority
+765,"320 E. Basse Rd, Suite 101",725.77,0.27,Bronze
+766,"320 Gilbert St, 1",1017.0,0.51,Silver
+767,"320 S Tryon, Suite 114",891.84,0.41,Bronze
+768,320 SOUTH QUADRILLE BLVD,1377.74,0.68,Silver
+769,320 South Quadrille Blvd,12254.85,0.99,Gold
+770,320 e main st,509.75,0.04,Low Priority
+771,320 enterprise dr,970.64,0.46,Bronze
+772,"3200 South Andrews Avenue, Suite 205",1655.75,0.77,Gold
+773,"322 East Kirkwood Avenue, 101",563.97,0.1,Low Priority
+774,322 Underhill Ave,576.42,0.11,Low Priority
+775,322 Underhill Ave.,772.48,0.33,Bronze
+776,"3232 , 309",1847.75,0.81,Gold
+777,"3232 Eastern Ave, 309",2008.82,0.84,Gold
+778,"3232 Sw 2nd Ave., Unit 113",1473.62,0.71,Silver
+779,3245 Palm Center Drive,748.26,0.3,Bronze
+780,3248 Timberwolf Ave,552.1,0.09,Low Priority
+781,325 S Washington Ave,798.64,0.35,Bronze
+782,326 rochelle ave,936.91,0.44,Bronze
+783,328 VIvian St,1279.74,0.64,Silver
+784,3289 M St NW ,970.64,0.46,Bronze
+785,329 S. Main St,589.51,0.13,Low Priority
+786,329 S. Main Street,748.26,0.3,Bronze
+787,"33 Baltimore Ave, D",3596.0,0.93,Gold
+788,33 Naylor Circle,1870.69,0.82,Gold
+789,33 Rhodes Ave,2259.1,0.86,Gold
+790,33 Russell St,1870.69,0.82,Gold
+791,33 Tower Drive,1870.69,0.82,Gold
+792,"33 grant street, Apt. 7",1279.74,0.64,Silver
+793,330 Main St,1465.38,0.71,Silver
+794,3310 Oakmont Terrace,568.63,0.11,Low Priority
+795,3310 Post Road ,1655.75,0.77,Gold
+796,3324 Upper Palace Green,1017.0,0.51,Silver
+797,3340 center grove drive,725.77,0.27,Bronze
+798,335 SOUTH MAIN STREET,2596.52,0.88,Gold
+799,335 west front st,1377.74,0.68,Silver
+800,3369 Tates Creek,1066.07,0.53,Silver
+801,3369 tates creek road ,3225.36,0.92,Gold
+802,"3370 Northeast 190th Street, 704",1129.11,0.58,Silver
+803,"34 main st, p.o. box 1438",1870.69,0.82,Gold
+804,"34-05 41st Street, 2LT",1198.29,0.61,Silver
+805,"340 Royal Poinciana Way, 325d",1279.74,0.64,Silver
+806,340 S Main St,970.64,0.46,Bronze
+807,3408 Coastal Highway,2707.69,0.89,Gold
+808,3411 Elmwood Ct,563.97,0.1,Low Priority
+809,"3411 old vineyard rd, Apt b5",633.23,0.16,Low Priority
+810,3412 dark hollow rd ,1808.16,0.8,Gold
+811,3414 Eastside,1855.04,0.81,Gold
+812,"34145 PCH , 330",563.97,0.1,Low Priority
+813,3417 Guyton Lane,540.79,0.08,Low Priority
+814,343 San Anselmo Ave,772.48,0.33,Bronze
+815,344 hillside ave,509.75,0.04,Low Priority
+816,345 Hudson Street,1655.75,0.77,Gold
+817,345 Larkfield Road,685.18,0.23,Low Priority
+818,"3496 NW Federal Hwy, Suite A",603.3,0.14,Low Priority
+819,35 Alden Street,6842.37,0.97,Gold
+820,"35 E 85TH ST, APT 7C",1069.35,0.55,Silver
+821,"35 East Main Street #7 , #7",1655.75,0.77,Gold
+822,35 Naples Avenue,748.26,0.3,Bronze
+823,35 Sparrow Walk,519.65,0.05,Low Priority
+824,35 W. 39th Street,748.26,0.3,Bronze
+825,35 east 85 street apt 7c,1175.68,0.59,Silver
+826,350 Monroe Ave,857.96,0.39,Bronze
+827,"3501 Ross Ave , Apt 4027",1377.74,0.68,Silver
+828,3506 Royal Tern Circle,1198.29,0.61,Silver
+829,351 main st.,2032.14,0.85,Gold
+830,3510 Hamilton Avenue,1074.07,0.56,Silver
+831,3516 Smith Haven Mall,1667.88,0.79,Gold
+832,352 Bellerive Dr,837.07,0.38,Bronze
+833,"3525 Perry Avenue , 3A",704.79,0.25,Low Priority
+834,3525 South 1600 East,1761.9,0.8,Gold
+835,"3537 36TH ST, 2 FLOOR",1971.98,0.84,Gold
+836,3538 Route 309,519.65,0.05,Low Priority
+837,354 S. 2nd Ave,4234.99,0.94,Gold
+838,354 South 2nd Avenue,1499.13,0.72,Silver
+839,"355 S biscayne BLVD UNIT 1409, 1409",891.84,0.41,Bronze
+840,3560 NW 72ND AVE,748.26,0.3,Bronze
+841,3560 roland drive,423.41,0.02,Low Priority
+842,36 Par- La Ville road,1655.75,0.77,Gold
+843,360 NARRAGANSETT  PARK DRIVE,891.84,0.41,Bronze
+844,360 Narragansett Park Dr,8937.83,0.98,Gold
+845,360 Narragansett Park Drive,1270.89,0.62,Silver
+846,"3603 Fenwick Park Place, G",772.48,0.33,Bronze
+847,362-C centre st,827.02,0.37,Bronze
+848,"3630 Ranch Rd. , Apt 8-3",970.64,0.46,Bronze
+849,"365 West End Avenue, Apt 108",970.64,0.46,Bronze
+850,366 Picture Drive,1870.69,0.82,Gold
+851,"3663 Bee Caves Rd, STE 3",725.77,0.27,Bronze
+852,367 Gosling Drive,2592.17,0.88,Gold
+853,367 Main Street,685.18,0.23,Low Priority
+854,3696 Utoy Dr. SW,784.33,0.34,Bronze
+855,370 Arvida Spur Rd,1069.35,0.55,Silver
+856,370 Harvard Avenue,685.18,0.23,Low Priority
+857,3706 Lexington Road,552.1,0.09,Low Priority
+858,3713 Carmen Avenue,1377.74,0.68,Silver
+859,372 Eglinton Ave W,617.85,0.15,Low Priority
+860,3720 N. Croatan Hwy,2526.73,0.88,Gold
+861,3721 NE 200 St,1658.34,0.79,Gold
+862,3721 NE 200TH STREET,353.6,0.02,Low Priority
+863,374 Main Street,1655.75,0.77,Gold
+864,3772 Main St,29422.24,1.0,Gold
+865,3772 Main Street,748.26,0.3,Bronze
+866,37769 N 94th St,725.77,0.27,Bronze
+867,378 MAIN STREET,563.97,0.1,Low Priority
+868,378 Main St,563.97,0.1,Low Priority
+869,38  rosemere rd,1377.74,0.68,Silver
+870,38 Lincoln ave,925.82,0.43,Bronze
+871,38 Magnolia Lane,2802.81,0.9,Gold
+872,380 Broadway ,3998.65,0.94,Gold
+873,380 broadway,857.96,0.39,Bronze
+874,3800 NW 16th st,519.65,0.05,Low Priority
+875,381 Thames Street,4983.51,0.95,Gold
+876,3814 Landis Ave,4489.94,0.95,Gold
+877,3816 Cobblestone Lane,2912.24,0.9,Gold
+878,38223.dupont blvd#13,552.1,0.09,Low Priority
+879,"385 5th Avenue, Floor 2",1655.75,0.77,Gold
+880,385 Broadway ,704.79,0.25,Low Priority
+881,"389 5th Avenue, 8th floor ",1377.74,0.68,Silver
+882,389 COMMERCIAL ST.,3374.28,0.92,Gold
+883,3903 Cambridge Ave,552.1,0.09,Low Priority
+884,3904 Highway 22,748.26,0.3,Bronze
+885,3904 Hwy 22,11858.84,0.99,Gold
+886,3906 W 50th Street,1840.03,0.81,Gold
+887,3915 Ponte Vedra Blvd,970.64,0.46,Bronze
+888,3920 North Shary Road,4215.89,0.94,Gold
+889,"3920 sharon rd, B150",649.51,0.18,Low Priority
+890,3925 N Highway 7 Suite F,1655.75,0.77,Gold
+891,3952 MARTIN CODE,649.51,0.18,Low Priority
+892,3961 Golf Bag Lane,725.77,0.27,Bronze
+893,39831 Grand River Ave.,666.8,0.21,Low Priority
+894,39831 Grandriver,540.79,0.08,Low Priority
+895,399 route 46,2097.68,0.85,Gold
+896,"3C South Street, Lower Level",408.76,0.02,Low Priority
+897,"4 1/2 Spague St , 2",1017.0,0.51,Silver
+898,4 Gilbraltar Drive,563.97,0.1,Low Priority
+899,4 Rue Philippe Vannier,1279.74,0.64,Silver
+900,4 Short dr,1017.0,0.51,Silver
+901,40 Betances St. Canton Mall,563.97,0.1,Low Priority
+902,40 S 7th Street STE 212 #137,970.64,0.46,Bronze
+903,40 S. washington,1377.74,0.68,Silver
+904,40 north main street,1655.75,0.77,Gold
+905,40-12 Main Street #B7,649.51,0.18,Low Priority
+906,400 Bay St,576.42,0.11,Low Priority
+907,400 Calvert Ave,827.02,0.37,Bronze
+908,400 Raynes Road RD 2,970.64,0.46,Bronze
+909,"400 w 63rd st, apt 611",633.23,0.16,Low Priority
+910,4001 Concord Pike,1377.74,0.68,Silver
+911,4003 TILLINGMERE CIR,1069.35,0.55,Silver
+912,"403 North 39th Ave., Apt.7",1870.69,0.82,Gold
+913,404 Ferry Road,7477.96,0.97,Gold
+914,404 S. Main Street,748.26,0.3,Bronze
+915,"406 Jefferson Street, 313",704.79,0.25,Low Priority
+916,"406 Jefferson Street, Apt 313",649.51,0.18,Low Priority
+917,40817 Garfield,2384.27,0.87,Gold
+918,40817 Garfield Rd,1319.26,0.66,Silver
+919,409 Lincoln Ave,603.3,0.14,Low Priority
+920,409 leetes island road,519.65,0.05,Low Priority
+921,40W387 Carl Sandburg Rd,1017.0,0.51,Silver
+922,41 North Main St,509.75,0.04,Low Priority
+923,41 Rosalind Street,1198.29,0.61,Silver
+924,"41 S Main St, Midtown Village",593.34,0.13,Low Priority
+925,41 S Main Street,1499.13,0.72,Silver
+926,"41 S. Main Street, Midtown Village",2349.36,0.87,Gold
+927,41 Western Industrial Drive,3398.51,0.92,Gold
+928,4101 N Kings Hwy,1078.49,0.56,Silver
+929,412 Melmark Ct,666.8,0.21,Low Priority
+930,"4120 - 8 Kittrell Farms Drive, Apt 8",1129.11,0.58,Silver
+931,"4120 kittrell farms drive, 8",656.35,0.2,Low Priority
+932,413 Dakota Avenue,1069.35,0.55,Silver
+933,414 N Main St,529.98,0.07,Low Priority
+934,414 winchester ave ,1010.92,0.49,Bronze
+935,4141 N. W. 36th Avenue,1017.0,0.51,Silver
+936,4149 Lee Rd,1499.13,0.72,Silver
+937,415 First Avenue,2086.77,0.85,Gold
+938,"4173 Kellogg Center, Albion College",970.64,0.46,Bronze
+939,"42 ABINGTON LN , 1",798.64,0.35,Bronze
+940,42 Abington Lane,1461.01,0.7,Silver
+941,"42 Dufflaw Rd. , 100",2963.55,0.9,Gold
+942,42 Mill River Dr,1017.0,0.51,Silver
+943,42 Mill River Drive,3077.67,0.91,Gold
+944,42 Talcott Rd,772.48,0.33,Bronze
+945,42 W. Main Street,1279.74,0.64,Silver
+946,"420 W 116TH ST , APT 6 e",970.64,0.46,Bronze
+947,4203 Saint Elizabeth Drive,1069.35,0.55,Silver
+948,4203 St Elizabeth Dr,952.1,0.45,Bronze
+949,4205 long beach blvd.,617.85,0.15,Low Priority
+950,4207 Albany Street,643.39,0.17,Low Priority
+951,42159 W. 14 Mile Rd.,1129.11,0.58,Silver
+952,422 Main St.,2792.93,0.89,Gold
+953,422 Marion street ,748.26,0.3,Bronze
+954,4238 Beasley ct,748.26,0.3,Bronze
+955,4249 Main St,6829.49,0.97,Gold
+956,425 Dexter Street,17382.73,1.0,Gold
+957,425 Market Street,603.3,0.14,Low Priority
+958,"425 NE 22nd street , Apt 1204",1069.73,0.56,Silver
+959,428 Highland Lakes DR.,748.26,0.3,Bronze
+960,429 Fynn Valley Drive,649.51,0.18,Low Priority
+961,43 Larkin Pond Road South ,5845.65,0.96,Gold
+962,43 Market St,787.27,0.34,Bronze
+963,43 Samworth Rd,949.03,0.45,Bronze
+964,43 Unquowa Road,1655.75,0.77,Gold
+965,43 unquowa rd,617.85,0.15,Low Priority
+966,"430 Schenectady Avenue , Apt 1 ",971.06,0.48,Bronze
+967,4309 Potomac Highlands Cir,1382.89,0.7,Silver
+968,"4311 Oak Lawn Avenue, Suite 620",2721.16,0.89,Gold
+969,4315 Sweetbriar Rd.,1377.74,0.68,Silver
+970,4316 old national pike,970.64,0.46,Bronze
+971,"4317 Arendell Street, Suite 1",1069.35,0.55,Silver
+972,"432 Park Ave south, 11th fl",984.42,0.48,Bronze
+973,"432 W Gorham Street, 1046",1223.02,0.62,Silver
+974,4326 Citrus Lane,603.3,0.14,Low Priority
+975,44 Lake dr west,4431.42,0.94,Gold
+976,44 lake drive west,937.8,0.45,Bronze
+977,"4403 E Black Horse Pike, 1048",704.79,0.25,Low Priority
+978,"442 VALLEY BROOK AVE, APT. 3F",748.26,0.3,Bronze
+979,"442 VALLEY BROOK AVE, APT. 3F, APT. 3F",1129.11,0.58,Silver
+980,"442 VALLY BROOK AVE., APT. 3F",670.49,0.22,Low Priority
+981,"4426 Arendell Street, Suite 7B",1279.74,0.64,Silver
+982,443 webster ave,1069.35,0.55,Silver
+983,4440 Club Trce,1279.74,0.64,Silver
+984,4441 COLLINS AVENUE ,1017.0,0.51,Silver
+985,4444 N. Wimbledon Dr,748.26,0.3,Bronze
+986,448 Forest Ave,2125.59,0.85,Gold
+987,4485 Frost Street,1655.75,0.77,Gold
+988,"4495 NW 73rd Ave, 11086160",725.77,0.27,Bronze
+989,45 Birch St.,1957.52,0.84,Gold
+990,45 Buena Vista Street,827.02,0.37,Bronze
+991,45 Kings Highway East,1499.13,0.72,Silver
+992,45 SANDCASTLE DRIVE,798.64,0.35,Bronze
+993,45 allison avenue,1649.16,0.75,Gold
+994,45 pleasant st,3731.78,0.93,Gold
+995,"450 W 42nd st, 41F",649.51,0.18,Low Priority
+996,"45081 northport dr, 1309",1094.23,0.57,Silver
+997,454 Main Ave,8506.39,0.98,Gold
+998,4540 Beach 45th Street,2296.51,0.87,Gold
+999,4542 Pebble Brook Drive,589.51,0.13,Low Priority
+1000,459A main street,1091.34,0.57,Silver
+1001,46 Pennsylvania Ave,10939.62,0.99,Gold
+1002,463 uwchlan ave ,2487.05,0.88,Gold
+1003,464 Main Street,748.26,0.3,Bronze
+1004,4641 Shallowford Circle,1279.74,0.64,Silver
+1005,46417 Basargin Rd,563.97,0.1,Low Priority
+1006,465 E. Hill St.,1645.99,0.75,Gold
+1007,469 Main ST,1405.1,0.7,Silver
+1008,47 Spicebush Lane,694.88,0.24,Low Priority
+1009,4703 Chevy Place,798.64,0.35,Bronze
+1010,4713 Northern Pike,1655.75,0.77,Gold
+1011,473 Thames Street,1017.0,0.51,Silver
+1012,475 Calle Retama,5754.83,0.96,Gold
+1013,476 Linden Avenue,104.58,0.0,Low Priority
+1014,479 Thames street,3863.58,0.93,Gold
+1015,"48 West 48th Street,  , Suite 1008,",1499.13,0.72,Silver
+1016,48 West Montauk Highway,1499.13,0.72,Silver
+1017,480 potter blvd,647.3,0.17,Low Priority
+1018,"4801 Line Ave, Suite #2",725.77,0.27,Bronze
+1019,4815 Sheridan Ave So,509.75,0.04,Low Priority
+1020,4815 Sheridan Ave South,540.79,0.08,Low Priority
+1021,4825 W 76th St,1065.63,0.53,Silver
+1022,"4825 butler road , suite 1a",110.86,0.01,Low Priority
+1023,483 Broadway,857.96,0.39,Bronze
+1024,483 new york av,725.77,0.27,Bronze
+1025,"4852 Rue St Dominique, apt 4",857.96,0.39,Bronze
+1026,486 Main Street,857.96,0.39,Bronze
+1027,486 Plandome Rd,1069.35,0.55,Silver
+1028,48883 Hayes Road,1672.08,0.8,Gold
+1029,489 Westcott St,1854.68,0.81,Gold
+1030,489 main street,1130.54,0.59,Silver
+1031,49 S Mall,1069.35,0.55,Silver
+1032,49 Standish st,900.98,0.42,Bronze
+1033,"49 conover ave, FIRST FLOOR",1655.75,0.77,Gold
+1034,49 new Hyde park road,827.02,0.37,Bronze
+1035,4900 Camp Bowie Boulevard,1870.69,0.82,Gold
+1036,4911 Burt St.,1129.11,0.58,Silver
+1037,4913 Kennison parkway,6707.78,0.96,Gold
+1038,4915 N 10th st.,1662.4,0.79,Gold
+1039,493 Broadway,540.79,0.08,Low Priority
+1040,"4940 Merrick Road, #224",685.18,0.23,Low Priority
+1041,4981 Lacaya Way,1655.75,0.77,Gold
+1042,49B Morton Ave.,1655.75,0.77,Gold
+1043,5 Aspen Drive,633.23,0.16,Low Priority
+1044,5 Hidden Lane,685.18,0.23,Low Priority
+1045,5 Main Street ,10435.36,0.99,Gold
+1046,"50 Bloomfield St , Apt 105",929.19,0.44,Bronze
+1047,50 EAST CROSS STREET,1468.24,0.71,Silver
+1048,50 East Cross Street,1252.52,0.62,Silver
+1049,50 Lakeview Ave,1961.8,0.84,Gold
+1050,50 Massachusetts Ave NW,509.75,0.04,Low Priority
+1051,50 Mount Bethel Rd,485.11,0.03,Low Priority
+1052,5001 Coliseum Drive,666.8,0.21,Low Priority
+1053,5001 West Chester Pike,2199.39,0.86,Gold
+1054,5001 west chester pike,857.96,0.39,Bronze
+1055,5004 Eagle Creek Drive,890.08,0.4,Bronze
+1056,501 Basin St. 1st Floor,1410.03,0.7,Silver
+1057,501 E. 9th Street,1129.11,0.58,Silver
+1058,"501 May Drive, Scranton",798.64,0.35,Bronze
+1059,"501 N. Bridge St, 262",7291.02,0.97,Gold
+1060,"501 N. bridge street, apartment 635",5073.94,0.96,Gold
+1061,"501 W Powell Ln, Suit 209",891.84,0.41,Bronze
+1062,5016 16th Ave,725.77,0.27,Bronze
+1063,5019 Hi View Ave ,1178.73,0.59,Silver
+1064,502 Summer Wilson Cv,1279.74,0.64,Silver
+1065,5020 Veazey Road,1377.74,0.68,Silver
+1066,503 RICHMOND AVE,589.51,0.13,Low Priority
+1067,5030 Champion Blvd#F7,6972.68,0.97,Gold
+1068,5037 Starboard Dr,748.26,0.3,Bronze
+1069,504 Lakeview Ave,772.48,0.33,Bronze
+1070,504 Vestry Drive,201.07,0.01,Low Priority
+1071,5045 Shelbyville Rd,798.64,0.35,Bronze
+1072,5045 Shelbyville Road,3641.59,0.93,Gold
+1073,506 STONEWALL CT,748.26,0.3,Bronze
+1074,507 Main St,666.8,0.21,Low Priority
+1075,507 S Main Street,725.77,0.27,Bronze
+1076,507 wilmington westchester pike,14143.65,0.99,Gold
+1077,5078B sunrise Hwy,576.42,0.11,Low Priority
+1078,5079 Barcroft Drive,1870.69,0.82,Gold
+1079,509 E Grand River,725.77,0.27,Bronze
+1080,509 S Washington Ave,563.97,0.1,Low Priority
+1081,509 SW 8th Terrace,1655.75,0.77,Gold
+1082,51 Gamewood Rd,2030.77,0.85,Gold
+1083,"51-66 48 Street, 2nd Floor",649.51,0.18,Low Priority
+1084,"510 North West, 97th Avenue, Plantations",748.26,0.3,Bronze
+1085,"510 Route 6 and 209, suite 104",772.48,0.33,Bronze
+1086,510 South Street,1499.13,0.72,Silver
+1087,510 main st,603.3,0.14,Low Priority
+1088,5121 Main Street,795.93,0.34,Bronze
+1089,516 Juniper Drive,1499.13,0.72,Silver
+1090,518 Westbridge Drive,1377.74,0.68,Silver
+1091,"51A James St, #5",970.64,0.46,Bronze
+1092,5203 Bonnell Ave,1017.0,0.51,Silver
+1093,5215 Bay Avenue,1198.29,0.61,Silver
+1094,"522 S. Courthouse Road, Apt 202",666.8,0.21,Low Priority
+1095,522 South Main,725.77,0.27,Bronze
+1096,5226 Tioga St,1331.81,0.66,Silver
+1097,525 N Milwaukee Ave,5447.96,0.96,Gold
+1098,526 Main Street,1870.69,0.82,Gold
+1099,53 MAIN ST,732.53,0.28,Bronze
+1100,"53 Main St, The Downtown Shops",772.48,0.33,Bronze
+1101,53 Main Street,3304.32,0.92,Gold
+1102,53 main street,2492.42,0.88,Gold
+1103,"530 Spruce Street, Scranton",3082.22,0.91,Gold
+1104,"530 W 45th St, APT 3H",563.97,0.1,Low Priority
+1105,531 Navarro St. ,7383.62,0.97,Gold
+1106,532 Governor Morrison St Ste 120,576.42,0.11,Low Priority
+1107,533 S Broad St,1069.35,0.55,Silver
+1108,535 Church Hill Road,748.26,0.3,Bronze
+1109,5396 Monticello Hall Drive,1377.74,0.68,Silver
+1110,54 Girard St. N.E.,649.51,0.18,Low Priority
+1111,54 West Main St,1063.85,0.53,Silver
+1112,5413 W Devon,970.64,0.46,Bronze
+1113,"542 W 142nd St , Apt 8",1655.75,0.77,Gold
+1114,5425 Spring Brook Rd.,748.26,0.3,Bronze
+1115,5447 Oakland Street,1279.74,0.64,Silver
+1116,5461 Quentin street,1301.99,0.66,Silver
+1117,5471E Wisconsin Avenue,2404.17,0.87,Gold
+1118,55 Fern Cir,1017.0,0.51,Silver
+1119,"550 WEST MERRIL ST, 230",589.51,0.13,Low Priority
+1120,"550 Whitney Ave, Apt. 5",1655.75,0.77,Gold
+1121,5506 Lincoln Avenue,990.59,0.48,Bronze
+1122,5508 Peerless Avenue,798.64,0.35,Bronze
+1123,5522 Hartfield Ave,1069.35,0.55,Silver
+1124,5524 main st ,649.51,0.18,Low Priority
+1125,"555 Diamond Street, Sprinkle of Jesus",4562.43,0.95,Gold
+1126,"555 Passaic Avenue, Suite 4",889.88,0.4,Bronze
+1127,559 Main St.,1377.74,0.68,Silver
+1128,559 Spring Road,4496.68,0.95,Gold
+1129,56 Echo Ave,1279.74,0.64,Silver
+1130,5615 Bodie Ct,1279.74,0.64,Silver
+1131,5623 S Jamaica Way,519.65,0.05,Low Priority
+1132,"5650 Greenpointe Drive N, Warehouse C",5920.99,0.96,Gold
+1133,5692 Leesway Blvd,798.64,0.35,Bronze
+1134,57 Pine blvd ,685.18,0.23,Low Priority
+1135,57 Whitfield St,3712.83,0.93,Gold
+1136,57 olive st,649.51,0.18,Low Priority
+1137,575 East Main Road,1377.74,0.68,Silver
+1138,"5759 Main Street, Salon DA'VOE",685.18,0.23,Low Priority
+1139,58 Chestnut Rd.,698.52,0.24,Low Priority
+1140,58 Lucia Court,633.23,0.16,Low Priority
+1141,5800 Hanna Ct,827.02,0.37,Bronze
+1142,5801 Hillburne Way,827.02,0.37,Bronze
+1143,"5802 Nicholson Lane, 1207",1499.13,0.72,Silver
+1144,5813 SW 1st Ave,7819.78,0.97,Gold
+1145,5822 N OCTAVIA AVE,1069.35,0.55,Silver
+1146,5822 N. Octavia,1129.11,0.58,Silver
+1147,5823 North Gate LN PMB 504,589.51,0.13,Low Priority
+1148,5824 114TH PL N,704.79,0.25,Low Priority
+1149,5832 Parliament Drive,1655.75,0.77,Gold
+1150,587 Northwest Library Commons Way,1655.75,0.77,Gold
+1151,"5900 collins ave, 1104",3316.99,0.92,Gold
+1152,5908 E Grandview Rd,666.8,0.21,Low Priority
+1153,"5908 E Grandview Rd, APT 301",552.1,0.09,Low Priority
+1154,5908 E Grandview rd ,764.63,0.32,Bronze
+1155,591 Erie St East,2923.51,0.9,Gold
+1156,"5944 coral ridge dr , 121",1884.75,0.83,Gold
+1157,"5951 Wellesley Park Drive, 704",529.98,0.07,Low Priority
+1158,"5951 Wellesley Park Drive, Suite 704",519.65,0.05,Low Priority
+1159,597 Kingstown Road,666.8,0.21,Low Priority
+1160,"597 Kingstown Road, 597 Kingstown Road",1341.58,0.66,Silver
+1161,"597 Shiloh Pike, Unit 1",2570.14,0.88,Gold
+1162,59A Whiting Street,602.46,0.13,Low Priority
+1163,"59Reagan Rd , #6",1377.74,0.68,Silver
+1164,6 James Cubberly Ct,772.48,0.33,Bronze
+1165,6 James Cubberly Ct.,3049.43,0.91,Gold
+1166,6 Mayfair Road,8346.9,0.98,Gold
+1167,6 Midfarm Road,4845.05,0.95,Gold
+1168,6 North Park Ave.,3224.76,0.92,Gold
+1169,6 Pine Grove Prestwich,772.48,0.33,Bronze
+1170,6 Powell Lane,3430.59,0.93,Gold
+1171,6 Robert Avenue,552.1,0.09,Low Priority
+1172,6 Slabey Ave ,2583.7,0.88,Gold
+1173,"6 Toltchav way, 103",1129.11,0.58,Silver
+1174,6 katie drive,8095.88,0.98,Gold
+1175,60 East Main Street,1017.0,0.51,Silver
+1176,60 Monmouth Road,798.64,0.35,Bronze
+1177,"601 West Saint Clair Street, 301",1069.35,0.55,Silver
+1178,6019 Bel Fay Ln,1462.68,0.7,Silver
+1179,"602 eagle rd apt 2d, 2d",519.65,0.05,Low Priority
+1180,"6020 NW 99 Ave, Suite 301",725.77,0.27,Bronze
+1181,6028 aldingbrooke cir north ,945.71,0.45,Bronze
+1182,605 Franklin Street,2846.99,0.9,Gold
+1183,605 Harvey St,1069.35,0.55,Silver
+1184,606 river road,589.51,0.13,Low Priority
+1185,607 Interstate 90 Business Loop,1870.69,0.82,Gold
+1186,608 Crandon blvd ,891.84,0.41,Bronze
+1187,61 Tomahawk Lane,540.79,0.08,Low Priority
+1188,6101 Capri Drive,725.77,0.27,Bronze
+1189,6106 avenida chamnez,1377.74,0.68,Silver
+1190,611 Hill Street,649.51,0.18,Low Priority
+1191,"611 Pennsylvania Avenue Southeast, 423",1499.13,0.72,Silver
+1192,612 Corsica Lane,1870.69,0.82,Gold
+1193,6133 Dunroming Road,649.51,0.18,Low Priority
+1194,615 Central Avenue,927.62,0.43,Bronze
+1195,6154 Southbend Drive South,772.48,0.33,Bronze
+1196,617 Milton Rd,1017.0,0.51,Silver
+1197,617 Milton Road,2245.94,0.86,Gold
+1198,622-2 Park Avenue,589.51,0.13,Low Priority
+1199,"6253 Hollywood Blvd, 803",1198.29,0.61,Silver
+1200,6253 Market Street,633.23,0.16,Low Priority
+1201,63 Old Ridge Toad,576.42,0.11,Low Priority
+1202,63 William Street,1185.84,0.6,Silver
+1203,63 Yale Avenue ,666.8,0.21,Low Priority
+1204,630 TERRYBROOK CRT.,1731.45,0.8,Gold
+1205,6300 jericho tpk,827.02,0.37,Bronze
+1206,631 N Benton Ave,1279.74,0.64,Silver
+1207,"631 West Madison Street, Apt 325",1314.66,0.66,Silver
+1208,"6320 Saint Augustine Road, Suite 11a",1198.29,0.61,Silver
+1209,635 Diellen Lane,748.26,0.3,Bronze
+1210,"6350 Wetherole Street, 3D",748.26,0.3,Bronze
+1211,637 Dane Ct,748.26,0.3,Bronze
+1212,638 Main Street,603.3,0.14,Low Priority
+1213,64 Belgrade Ave ,823.83,0.36,Bronze
+1214,640 ARNOLD AVE,4231.82,0.94,Gold
+1215,6400 East Rogers Circle,1279.74,0.64,Silver
+1216,6428 E. Central,1173.65,0.59,Silver
+1217,65 Highcrest Road,1655.03,0.76,Gold
+1218,"6505 Park Ave, Apt 2R",552.1,0.09,Low Priority
+1219,"6505 Park Ave., Ste. 2R",529.98,0.07,Low Priority
+1220,"6531 NW 87TH AVE, SUITE T-11676",666.8,0.21,Low Priority
+1221,654 Collier Dr,2891.0,0.9,Gold
+1222,"6541 Northwest 87th Avenue, T-8153",1279.74,0.64,Silver
+1223,655 Cubitas Street,748.26,0.3,Bronze
+1224,656 E 24th Street,748.26,0.3,Bronze
+1225,657 Quarry Street,3134.07,0.91,Gold
+1226,65atlantic ave,929.19,0.44,Bronze
+1227,66 CHURCH ST,1655.75,0.77,Gold
+1228,66 Church Street,4852.1,0.95,Gold
+1229,66 O Street,1017.0,0.51,Silver
+1230,668 North Island,1378.45,0.7,Silver
+1231,67 Main St.,1655.75,0.77,Gold
+1232,"67 West Street, SUITE 401",1129.11,0.58,Silver
+1233,"6703 NW 7TH ST, EIS 66254",1279.74,0.64,Silver
+1234,6703 NW 7th St. #SAL14556,1886.53,0.83,Gold
+1235,"6703 NW 7th St., LIM-65992",827.02,0.37,Bronze
+1236,"6703 NW 7th Street, GCM-5507",418.03,0.02,Low Priority
+1237,6706 Orchard Lake Rd,772.48,0.33,Bronze
+1238,6737 limekiln pike,2670.48,0.89,Gold
+1239,677 South Branch Pkwy,649.51,0.18,Low Priority
+1240,68 Cove Lane,1499.13,0.72,Silver
+1241,68 Llewellyn Drive,1870.69,0.82,Gold
+1242,68 MAIN ST,685.18,0.23,Low Priority
+1243,6805 Derby Run Drive,685.18,0.23,Low Priority
+1244,"687 Carriage House Ln, Apt 202",1198.29,0.61,Silver
+1245,69 Lucerne Road,2138.29,0.85,Gold
+1246,"69 Shoreham Dr,",603.3,0.14,Low Priority
+1247,690 E 77th street,649.51,0.18,Low Priority
+1248,6909 NW 43rd St. ,519.65,0.05,Low Priority
+1249,6910 Dorset place,529.98,0.07,Low Priority
+1250,6929 Miami Ave,1069.35,0.55,Silver
+1251,6963 Cable Drive,576.42,0.11,Low Priority
+1252,"699 E Broadway, Storefront",2614.39,0.88,Gold
+1253,699 Massachusetts Avenue,1279.74,0.64,Silver
+1254,6th & C street ,772.48,0.33,Bronze
+1255,"70 Carroll Avenue #207, 207",603.3,0.14,Low Priority
+1256,7000  ROSWELL RD #131,603.3,0.14,Low Priority
+1257,701 Cooper Drive,1209.19,0.62,Silver
+1258,702 L'Enfant Plaza SW,1069.35,0.55,Silver
+1259,706 NW 7 highway suite c,666.8,0.21,Low Priority
+1260,706 howe street,101.12,0.0,Low Priority
+1261,7061 NW 87th Ave,3582.71,0.93,Gold
+1262,708 naple ave,529.98,0.07,Low Priority
+1263,7084 e 5th ave,666.8,0.21,Low Priority
+1264,709 Sharon Garden Court,552.1,0.09,Low Priority
+1265,71 Whitfield Street,1198.29,0.61,Silver
+1266,711 Broad Street,827.02,0.37,Bronze
+1267,7115 Tall Tree Lane,1279.74,0.64,Silver
+1268,7125 Kelly Cove Rd,582.13,0.12,Low Priority
+1269,"7131 NW 79th Ave, EXPRESS",1499.13,0.72,Silver
+1270,714 Desert Bluff,2239.34,0.86,Gold
+1271,715 East 96th Street,1017.0,0.51,Silver
+1272,"7155 sw 47th Street , Unit 310A",1870.69,0.82,Gold
+1273,7156 Highway 22,1499.13,0.72,Silver
+1274,717 Northwest 2nd Street,891.84,0.41,Bronze
+1275,717 nw 2nd street,1655.75,0.77,Gold
+1276,"717 ocean ave, apt 211",2359.45,0.87,Gold
+1277,718 N. High Street,1253.41,0.62,Silver
+1278,"719 N Hampton Rd, Suite 609",748.26,0.3,Bronze
+1279,72 Old Ridgefield Road,1069.35,0.55,Silver
+1280,72 north drive,1958.23,0.84,Gold
+1281,72 steven place,7384.16,0.97,Gold
+1282,72 steven place ,939.16,0.45,Bronze
+1283,720 Asbury Ave,1173.26,0.59,Silver
+1284,720 asbury ave,17339.26,1.0,Gold
+1285,722 E 58th St,772.48,0.33,Bronze
+1286,722 Southwest Westwood Drive,14832.67,0.99,Gold
+1287,722 W Lancaster Avenue,1017.0,0.51,Silver
+1288,7230 S SLEEPY HOLLOW DR,617.85,0.15,Low Priority
+1289,7230 S. Sleepy Hollow Drive,603.3,0.14,Low Priority
+1290,7235 E 1st Ave,929.19,0.44,Bronze
+1291,724 York Road,1499.13,0.72,Silver
+1292,725 Tucker St,929.19,0.44,Bronze
+1293,"7262 Cradle rock way, upper level",633.47,0.17,Low Priority
+1294,727 Front street apt 213,19.75,0.0,Low Priority
+1295,"729 Madison Street, 1B",685.18,0.23,Low Priority
+1296,"7290NW 66 ST, 7290 NW 66 Street",1377.74,0.68,Silver
+1297,73 GREENWICH AVENUE,857.96,0.39,Bronze
+1298,73 holbrook,617.85,0.15,Low Priority
+1299,7322 Marquette,1179.55,0.6,Silver
+1300,7326 Meadow Lark Place,1129.11,0.58,Silver
+1301,7363 Keller road,970.64,0.46,Bronze
+1302,737 N High St,1003.05,0.48,Bronze
+1303,738 Turner ave,785.36,0.34,Bronze
+1304,738 Turner ave ,603.3,0.14,Low Priority
+1305,738 pona st,576.42,0.11,Low Priority
+1306,7395 Danboro Ave NE,685.18,0.23,Low Priority
+1307,74 Lexington Ave,2055.09,0.85,Gold
+1308,74 N Heights Rd,1017.0,0.51,Silver
+1309,74 North Heights Rd,1017.0,0.51,Silver
+1310,"74 W Broad St, Suite 140",685.18,0.23,Low Priority
+1311,74 north heights rd,1129.11,0.58,Silver
+1312,744 brisa del mar dr,633.23,0.16,Low Priority
+1313,"7474 Corporate Blvd, STE 301",748.26,0.3,Bronze
+1314,748 Parkside Circle North,798.64,0.35,Bronze
+1315,7489 New Hampshire Avenue,1655.75,0.77,Gold
+1316,749 Narragansett Parkway,621.13,0.16,Low Priority
+1317,750 Bethany Green Ct,633.23,0.16,Low Priority
+1318,750 Bethany Green Ct.,970.99,0.48,Bronze
+1319,750 Via Cafetal ,289.15,0.01,Low Priority
+1320,75001 Miller,509.75,0.04,Low Priority
+1321,7509 Poplar Ave Ste 102,3248.74,0.92,Gold
+1322,7555 MAIN ROAD,1069.35,0.55,Silver
+1323,757 Boston Post Rd,725.77,0.27,Bronze
+1324,75R Rocky Neck Avenue,857.96,0.39,Bronze
+1325,76 S main st ,1198.29,0.61,Silver
+1326,7603 NW 7TH STREET,685.18,0.23,Low Priority
+1327,7630 NW 25 Street # 2B,1129.11,0.58,Silver
+1328,7638 Allenwood Circle,1539.71,0.74,Silver
+1329,"768 E 215 STREET, APT 2",1377.74,0.68,Silver
+1330,7701 nw 15th street.suite#LC 670316,176.58,0.01,Low Priority
+1331,7703 sw 193 ST,1069.35,0.55,Silver
+1332,771 s dixie hway east,725.77,0.27,Bronze
+1333,7711 Thunderbird court,1789.72,0.8,Gold
+1334,"772 N. High Strret , suite 100",1499.13,0.72,Silver
+1335,7734 Winters Rd,1279.74,0.64,Silver
+1336,"777 N. YORK ROAD , SUITE 23",2790.71,0.89,Gold
+1337,"777 NW 72ND AVE STE 1001, 1001",1790.93,0.8,Gold
+1338,"777 NW 72ND AVE, STE 1001",1359.64,0.66,Silver
+1339,777 NW 72nd AVE. SUITE 1071,1198.29,0.61,Silver
+1340,777 NW 72nd Ave. Unit#1071,2359.87,0.87,Gold
+1341,7780 hwy 57 E,929.19,0.44,Bronze
+1342,"7801 Northwest 37th Street, #pty: 141886",1377.74,0.68,Silver
+1343,7801 woodmont ave,4988.97,0.95,Gold
+1344,"7806 Horseshoe Bay Rd., PO Box 334",1305.7,0.66,Silver
+1345,7825 MARTIN GROVE ROAD,798.64,0.35,Bronze
+1346,787 B Main st,857.96,0.39,Bronze
+1347,7900 NW 68TH ST,3072.03,0.91,Gold
+1348,791 Cherry Hills Court,1069.35,0.55,Silver
+1349,7912 Terraza disoma,509.75,0.04,Low Priority
+1350,794 East Washington Street,2865.67,0.9,Gold
+1351,794 Lexington Ave,276.3,0.01,Low Priority
+1352,8 Birch Hill Road,970.64,0.46,Bronze
+1353,8 Church Strreet,970.64,0.46,Bronze
+1354,8 Dunberry Dr,2294.9,0.87,Gold
+1355,8 RYAN RD,685.18,0.23,Low Priority
+1356,"8 West 36th Street, 7th Floor",1387.92,0.7,Silver
+1357,8 dunberry drive,899.65,0.42,Bronze
+1358,80 East Main street,725.24,0.25,Bronze
+1359,80 Guillermo Esteves,3195.14,0.91,Gold
+1360,80 Ocean Avenue,589.51,0.13,Low Priority
+1361,80 east main street,576.42,0.11,Low Priority
+1362,"80-501 Avenue 48. , #164",1017.0,0.51,Silver
+1363,800 Oxbow,961.0,0.45,Bronze
+1364,801 Elmwood ave,685.18,0.23,Low Priority
+1365,8049 Buist Avenue,1198.29,0.61,Silver
+1366,805 E Park St,666.8,0.21,Low Priority
+1367,806 Kenilworth DRive,1377.74,0.68,Silver
+1368,808 Brantford Avenue,1655.75,0.77,Gold
+1369,808 Chartres Street,3073.02,0.91,Gold
+1370,"808 Deal Road, Middlebrook Plaza",432.15,0.02,Low Priority
+1371,"81 DECATUR AV., 112",1478.53,0.71,Silver
+1372,81 Smith St,828.44,0.38,Bronze
+1373,81 smith st,1013.56,0.49,Bronze
+1374,810 Jessica Place,1499.13,0.72,Silver
+1375,"811 West Grand AV, Grand lagniappe Shoppe",857.96,0.39,Bronze
+1376,812 E.HACKBERRY RD,1069.35,0.55,Silver
+1377,813 wesley rd,497.01,0.03,Low Priority
+1378,82 Davenport Ridge lane,970.64,0.46,Bronze
+1379,82 Woods Road,1870.69,0.82,Gold
+1380,82 shirley ct,970.64,0.46,Bronze
+1381,8200 Perry hall blvd,1655.75,0.77,Gold
+1382,8239 Gerhardt St,1017.0,0.51,Silver
+1383,825 Mcdonald Ave,576.42,0.11,Low Priority
+1384,825 Walnut St.,21583.12,1.0,Gold
+1385,"8260 NW 14TH ST., EPS # A-5541",666.8,0.21,Low Priority
+1386,83 Chestnut St,3536.84,0.93,Gold
+1387,833 S DuPont Blvd,1655.49,0.76,Gold
+1388,8360 LAKESHORE DRIVE,1655.75,0.77,Gold
+1389,8372 NW 68th ST,1129.11,0.58,Silver
+1390,8376 Northwest 68th Street,1870.69,0.82,Gold
+1391,"838 Asbury Avenue, #A",1655.75,0.77,Gold
+1392,838A Asbury Ave,1017.0,0.51,Silver
+1393,838A Asbury Ave ,865.54,0.4,Bronze
+1394,838A Asbury ave,1499.13,0.72,Silver
+1395,"8401 NW 17TH STREET , DEPT 43-8203",649.6,0.19,Low Priority
+1396,"8401 NW 17th St Dept 43-8203, Doral",1655.75,0.77,Gold
+1397,"8401 NW 17th Street, #22-11686",2265.37,0.86,Gold
+1398,"8425 Peace Lily Court , Apt 415",1954.5,0.84,Gold
+1399,"8425 Peace Lily Court , Suite 415",799.72,0.36,Bronze
+1400,"8425 Peace Lily Ct, APT 415",1069.35,0.55,Silver
+1401,"8425 Peace Lily Ct, Suite 415",540.31,0.07,Low Priority
+1402,8439 West Rivershore Drive,2692.14,0.89,Gold
+1403,844 Wickam Way,1069.94,0.56,Silver
+1404,844 wickham way,1017.0,0.51,Silver
+1405,8451 sw 24 st,4768.04,0.95,Gold
+1406,849 foxfield rd,1094.9,0.57,Silver
+1407,8505 Huntspring Drive,857.96,0.39,Bronze
+1408,8516 County 107,633.23,0.16,Low Priority
+1409,"8518 nw 66 street , suite 502",8787.9,0.98,Gold
+1410,8521 Andover Bridge Court,891.84,0.41,Bronze
+1411,8526 NW 70TH STREET,891.84,0.41,Bronze
+1412,86 Clark Street,807.91,0.36,Bronze
+1413,"86 Slate Creek Drive, Apt 3",1198.29,0.61,Silver
+1414,86 danbury rd,2810.58,0.9,Gold
+1415,"8610 Mcpherson Rd, Ste 220",725.77,0.27,Bronze
+1416,8610 NW 72ND ST.,1655.75,0.77,Gold
+1417,8617 Tompson Point Rd.,798.64,0.35,Bronze
+1418,8617 Tompson Point Road,798.64,0.35,Bronze
+1419,8685 GLEN LAKES BLVD N,1377.74,0.68,Silver
+1420,87 Ellwood Street Apt # 2,1377.74,0.68,Silver
+1421,87 Rue Notre-Dame Est,1129.11,0.58,Silver
+1422,8701 Bally Bunion Road,1377.74,0.68,Silver
+1423,8707 E 87TH PL,970.64,0.46,Bronze
+1424,871 Bethune rd,1279.74,0.64,Silver
+1425,874 Berlin Turnpike,2659.64,0.89,Gold
+1426,875 Cambridge Road,1499.13,0.72,Silver
+1427,"875 nostrand ave, Top fl",666.8,0.21,Low Priority
+1428,876 stanley blvd,2008.21,0.84,Gold
+1429,879 Jane St,748.26,0.3,Bronze
+1430,"88  East Main St, Suite 440",1499.13,0.72,Silver
+1431,88 Broad Street,509.75,0.04,Low Priority
+1432,8850 Montjoy Pl,772.48,0.33,Bronze
+1433,"888 madison street, 1F",929.19,0.44,Bronze
+1434,89 FOrest Lane,1870.69,0.82,Gold
+1435,89 commack road,970.64,0.46,Bronze
+1436,9 Healey Way,2788.54,0.89,Gold
+1437,9 Heaney Way,798.64,0.35,Bronze
+1438,9 Ilan Court,1198.29,0.61,Silver
+1439,9 maunsey close,1499.13,0.72,Silver
+1440,90 northern blvd,3143.24,0.91,Gold
+1441,900 asbury ave,4394.9,0.94,Gold
+1442,9001 B contee rd,1069.35,0.55,Silver
+1443,9008 Elm Drake Ln,725.77,0.27,Bronze
+1444,902 Division Avenue Northeast,1069.35,0.55,Silver
+1445,902E 41st PL,891.84,0.41,Bronze
+1446,904 Commercial Avenue,748.26,0.3,Bronze
+1447,905 A Grand Central ave,2374.45,0.87,Gold
+1448,905 CREEK SIDE WAY,1655.75,0.77,Gold
+1449,9076 Dowdend Rd Su 211,798.64,0.35,Bronze
+1450,908 Glenview Dr,529.98,0.07,Low Priority
+1451,908 laurie lane,519.65,0.05,Low Priority
+1452,9080 Gribble Ct.,1170.73,0.59,Silver
+1453,"91 Field St, St",1870.69,0.82,Gold
+1454,"910 se everett mall way, 106 ",1510.58,0.74,Silver
+1455,913 e broadway,649.51,0.18,Low Priority
+1456,"9143 Red Branch rd , F",1292.18,0.65,Silver
+1457,9149 Elizabeth Road,1377.74,0.68,Silver
+1458,"920 16ST, SUITE E",633.23,0.16,Low Priority
+1459,922 Stanford Avenue,748.26,0.3,Bronze
+1460,9221 SW 57 terrace,4665.66,0.95,Gold
+1461,924 2nd Street Pike,891.84,0.41,Bronze
+1462,926 Hopmeadow St,1069.35,0.55,Silver
+1463,926Hopmeadow St,666.8,0.21,Low Priority
+1464,93 Harper Court,1655.75,0.77,Gold
+1465,93 Victoria Drive,1526.17,0.74,Silver
+1466,9301 3rd. Ave.-#5,3362.42,0.92,Gold
+1467,931 Lancaster Ave,1377.74,0.68,Silver
+1468,934 W ARMITAGE AVE,2111.61,0.85,Gold
+1469,9342 SW 4th Ln,666.8,0.21,Low Priority
+1470,9342 sw 4th lane,1323.38,0.66,Silver
+1471,94 brentwood drive,929.19,0.44,Bronze
+1472,"94-62 43rd Avenue, 3rd Floor",460.87,0.03,Low Priority
+1473,"945 BOARDMAN-CANFIELD RD, 4",5882.31,0.96,Gold
+1474,"95 SOCKANOSSET CROSS ROAD, SUITE 205",1422.62,0.7,Silver
+1475,"95 SOCKANOSSET CROSS ROAD, SUITE 305",275.85,0.01,Low Priority
+1476,"95 Sockanosset Cross Road, suite 205",1946.21,0.83,Gold
+1477,95 Victoria Drive,1377.74,0.68,Silver
+1478,951 CA Stewart Rd,2011.11,0.84,Gold
+1479,954 N Broadway,1881.15,0.83,Gold
+1480,954 n broadway,666.8,0.21,Low Priority
+1481,9565 BRADDOCK RD,1017.0,0.51,Silver
+1482,9565 Mount Ayre Way,929.19,0.44,Bronze
+1483,9575 NW 13 STREET,3185.91,0.91,Gold
+1484,9575 NW 13TH STREET,7472.91,0.97,Gold
+1485,9575 NW 13th  Street,704.79,0.25,Low Priority
+1486,9575 NW 13th Street,617.85,0.15,Low Priority
+1487,958 McBride Ave,748.26,0.3,Bronze
+1488,96 Lipton Lane,1499.13,0.72,Silver
+1489,96 Wharf street,8911.35,0.98,Gold
+1490,9615 Kingfisher Ct,1377.74,0.68,Silver
+1491,9626 Overbrook Rd,2941.32,0.9,Gold
+1492,9626 Overbrook Road,2162.3,0.86,Gold
+1493,966 beach land blvd,5710.22,0.96,Gold
+1494,9725 SW 161 AVE,1252.35,0.62,Silver
+1495,9757 PINE LAKE DR 3096,1069.35,0.55,Silver
+1496,98 Hausman Rd.,1071.14,0.56,Silver
+1497,98 summit way,633.23,0.16,Low Priority
+1498,9803 NW 8 STREET,1017.0,0.51,Silver
+1499,9810 3rd Ave,18230.8,1.0,Gold
+1500,9811 Clayton Rd,649.51,0.18,Low Priority
+1501,"9865 marconi dr., Suite a",1184.66,0.6,Silver
+1502,99 1st ,649.51,0.18,Low Priority
+1503,99 Calhoun Drive,1279.74,0.64,Silver
+1504,99 Farmview DR C,4965.06,0.95,Gold
+1505,99 Farmview Drive,857.96,0.39,Bronze
+1506,99 Kent Street,1757.04,0.8,Gold
+1507,"99 Kent Street, Main Office",1496.43,0.71,Silver
+1508,99 Main St,2981.8,0.9,Gold
+1509,990 E. Governor Road,1069.35,0.55,Silver
+1510,9927 Stephen Decatur Highway,1017.0,0.51,Silver
+1511,994 Breckenridge Lane,1061.37,0.53,Silver
+1512,"9949 NW 89th Ave, Unit 6 JEBDSKH256",1279.74,0.64,Silver
+1513,APLP 4084 8288nw 66th street,1981.12,0.84,Gold
+1514,Airy Hill St.Joseph,666.8,0.21,Low Priority
+1515,"Aldwych Theatre, Tavistock Street",666.8,0.21,Low Priority
+1516,"Amates 21, Reforma, Apatlaco",970.64,0.46,Bronze
+1517,BAZURRO 7164,857.96,0.39,Bronze
+1518,Bosques de Manzanos # 245 Bosques de las lomas ,1763.5,0.8,Gold
+1519,"C/O accent accessories, 4 warren avenue",798.64,0.35,Bronze
+1520,CALZ. DEL VALLE ·575 OTE.,1377.74,0.68,Silver
+1521,Calle Mimosa 33 Santa Maria,633.23,0.16,Low Priority
+1522,"Clothes Horse, 396 Broadway",704.79,0.25,Low Priority
+1523,De la Iglesia de San Pedro de Montes de Oca 200 este 300 norte,603.3,0.14,Low Priority
+1524,Dr. Rupertlaan 33 ,891.84,0.41,Bronze
+1525,Dr.Rupertlaan 33,857.96,0.39,Bronze
+1526,"E13165 County Rd V, Suite 1",1279.74,0.64,Silver
+1527,"EUROCOLOUR, 1602 NEW RD",1279.74,0.64,Silver
+1528,East 6200 South,725.77,0.27,Bronze
+1529,"Erie County Fair, 5600 McKinley Parkway",891.84,0.41,Bronze
+1530,Ft 263 Peddlers Village  shop #62.   PO box 323,4295.5,0.94,Gold
+1531,Große-Eschenheimer-Str. 15,2352.77,0.87,Gold
+1532,"Heatherbleuhome.com, 181 Hart Ave",5026.88,0.96,Gold
+1533,Hochstrasse 53 ,1017.0,0.51,Silver
+1534,"IERE EXPRESS COURIERS LTD, 14026 NW 82 AVE TTC1007",757.17,0.32,Bronze
+1535,"Iere Express International TT 1007, 14026NW 82Ave ",1377.74,0.68,Silver
+1536,J31 Bo Playa,1017.0,0.51,Silver
+1537,James Lowe Lane,2271.26,0.86,Gold
+1538,"MONTANO'S PLAZA, 19-21 HIGH STREET ",1655.75,0.77,Gold
+1539,"Malaika APLP 40848288 NW 66TH STREETMIAMI FL, 33195TEL: 305-749-9899",1279.74,0.64,Silver
+1540,P.O. BOX 1220,649.51,0.18,Low Priority
+1541,"PLAZA DORADA 800 CARR 693, SUITE 5",649.51,0.18,Low Priority
+1542,PO Box 67,683.74,0.22,Low Priority
+1543,"Peter's boutique, Montano plaza St James street",8714.98,0.98,Gold
+1544,"Petrune, 126 East State Street",10896.7,0.99,Gold
+1545,Po box 1867,798.64,0.35,Bronze
+1546,Private Bag 1,748.26,0.3,Bronze
+1547,"Seminario 615, Providencia ",27149.85,1.0,Gold
+1548,Skeeter Street,1017.0,0.51,Silver
+1549,"Sterling Town Center Apartments, 7821 Bergstrom Dr, Apt 111",589.51,0.13,Low Priority
+1550,"Twigs & Pearls, 114 Main Street",1655.75,0.77,Gold
+1551,"Urb. Dorado del Mar, MM-10 Calle Miramar",1925.13,0.83,Gold
+1552,Urb. Santa Rosa 16-22 Ave. Aguas Buenas,1655.75,0.77,Gold
+1553,Urb. Valle San Luis Via del Sol #109,1499.13,0.72,Silver
+1554,"Villa Nueva , L 2 Calle 2",1499.13,0.72,Silver
+1555,"Villa Nueva, Calle 2 L-2",1499.13,0.72,Silver
+1556,"Walt Disney Imagineering, 1365 Avenue of the Stars",704.79,0.25,Low Priority
+1557,"You're So Invited, 260 Westwood",857.96,0.39,Bronze
+1558,"autopista Ramon Caceres Plaza Sunrise 124, 125",540.79,0.08,Low Priority
+1559,"c/o four star cargo, 7640 n.w 63rd St",725.77,0.27,Bronze
+1560,"dxb 2534, 182-21 150 Avenue, 182-21 150 avenue",3015.66,0.91,Gold
+1561,est cerro gordo 64 plaza fabiana 64,748.26,0.3,Bronze
+1562,po box 35,1377.74,0.68,Silver
+1563,vine house,944.29,0.45,Bronze
