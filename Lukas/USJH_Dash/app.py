@@ -66,14 +66,14 @@ app.layout = html.Div(
         html.Div([
 
 
-
-            html.Span("USJH Dashboard", className='app-title', style={"color": "black"}),
-            
+          # html.Div(
+           # html.Span("USJH Dashboard", className='app-title', style={"color": "black", "padding-bottom": "-40px"}),
+           # ),
             html.Div(
                 html.Img(src='https://i.ibb.co/G74pSt4/transparant.png',height="100%")
-                ,style={"float":"right","height":"100%"})
+                ,style={"float":"left","height":"100%", "margin-top": "0px"})
             ],
-            className="row header",style={"background-color": "#ADD8E6"}
+            className="row header",style={"background-color": "#ffffff"}
             ),
 
         # tabs
@@ -81,7 +81,7 @@ app.layout = html.Div(
 
             dcc.Tabs(
                 id="tabs",
-                style={"height":"20","verticalAlign":"middle"},
+                style={"height":"20","verticalAlign":"middle", "text-align": "center"},
                 children=[
                     dcc.Tab(label="Clustering", value="opportunities_tab"),
                     dcc.Tab(label="CLV", value="leads_tab"),
@@ -110,17 +110,24 @@ app.layout = html.Div(
         html.Link(href="https://fonts.googleapis.com/css?family=Ubuntu", rel="stylesheet"),
         html.Link(href="https://cdn.rawgit.com/amadoukane96/8a8cfdac5d2cecad866952c52a70a50e/raw/cd5a9bf0b30856f4fc7e3812162c74bfc0ebe011/dash_crm.css", rel="stylesheet"),
 
-         dcc.Dropdown(id='dropdown', style={'width': '60%'}, options=[
+        html.H3("Customer Lifetime Value", style={"padding-left": "150px"}),
+
+         dcc.Dropdown(id='dropdown', style={'width': '60%', "padding-left": "150px"}, options=[
             {'label': i, 'value': i} for i in df.ID.unique()
             ], multi=True, placeholder='Filter by customer address...'),
+
+         html.Div(
+                html.H3("Customer Return Probability")
+                ,style={"float":"right","height":"100%", "padding-right": "150px", "margin-top": "-105px"}),
+
          html.Br(),
 
-         dcc.Dropdown(id='dropdown2', style={'width': '60%'}, options=[
+         dcc.Dropdown(id='dropdown2', style={'width': '60%', "padding-left": "150px"}, options=[
             {'label': i, 'value': i} for i in df.Target_Group.unique()
             ], multi=True, placeholder='Filter by target group...'),
 
 
-        html.Div(id='table-container', style={'width': '36%'})
+        html.Div(id='table-container', style={'width': '36%', "padding-left": "150px"})
             ],
             className="row",
             style={"margin": "0%"}
