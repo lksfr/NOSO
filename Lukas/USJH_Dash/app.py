@@ -161,7 +161,7 @@ app.layout = html.Div([
                         html.P("This dashboard is the final product of the Capstone Project of Raymond Liang, Lukas Frei, Jialan Zhu, Esther Chang, Bird, and Iris (Jo Wen) Chen."),
                         html.P("We designed the dashboard with the intention of making it easily usable and understandable."),
                         html.P( "Add more text..."),
-                        html.P("Link to our GitHub repository:"), html.A("https://github.com/estherc1/NOSO")
+                        html.A("Link to our GitHub repository",href="https://github.com/estherc1/NOSO", target="blank")
 
                         ], style={"background-color": "white", "background-color": "white", "margin-left": "5%", "margin-right": "5px", "padding-left": "10px" ,"padding-bottom": "10px", "width": "80%",  "border-radius": "25px",
                         "border": "2px solid #4286f4", "margin-top": "20px"}
