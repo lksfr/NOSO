@@ -8,10 +8,17 @@ import flask
 import plotly.plotly as py
 from plotly import graph_objs as go
 import math
+from lifetimes import BetaGeoFitter
 
 df = pd.read_csv(
-    'https://gist.githubusercontent.com/lksfr/f0b44eef6ce475e11d4f0df56121ff1c/raw/3ed7a8f2aceba7d503aefe13aa0b71a3b835c10f/CLV.csv',
+    'https://gist.githubusercontent.com/lksfr/c65d53e66ef45673ce4c8f5ef23e2645/raw/c3dc295facb571959dccc917797158b81d032ac2/CLV.csv',
     index_col=False)
+
+summary2 = pd.read_csv('https://gist.githubusercontent.com/lksfr/cc8488828a89419a50c0486f94f6092a/raw/9c8dfbd080d3a5eaf2b02eab4053c3915156e965/summary2.csv'
+    , index_col='Shipping Company')
+
+bgf = BetaGeoFitter()
+bgf.load_model('bgf.pkl')
 
 # return html Table with dataframe values  
 def generate_table(dataframe, max_rows=50):
@@ -114,11 +121,39 @@ app.layout = html.Div(
 
          dcc.Dropdown(id='dropdown', style={'width': '60%', "padding-left": "150px"}, options=[
             {'label': i, 'value': i} for i in df.ID.unique()
-            ], multi=True, placeholder='Filter by customer address...'),
+            ], multi=True, placeholder='Filter by customer name...'),
 
-         html.Div(
-                html.H3("Customer Return Probability")
-                ,style={"float":"right","height":"100%", "padding-right": "150px", "margin-top": "-105px"}),
+         html.Div([
+                html.H3("Customer Return Probability"),
+
+                dcc.Dropdown(
+                     id='customer_prob',
+                         options=[
+                         {'label': i, 'value': i} for i in df.ID.unique()
+                        ],
+                    placeholder='Select customer...'
+                ),
+
+                html.P(style={"margin-top": "17px"}),
+
+                dcc.Slider(
+                        id='slider',
+                        min=0,
+                        max=12,
+                        marks={i: 'Month {}'.format(i) if i == 1 else str(i) for i in range(1, 13)},
+                        value=5,
+
+                    ),
+                html.Br(),
+                html.Br(),
+
+                html.Div(id='result', style={"width": "400px"})
+
+
+                ]
+
+                ,style={"float":"right","padding-right": "150px", "margin-top": "-105px"}
+                ),
 
          html.Br(),
 
@@ -141,11 +176,23 @@ def display_table(dropdown, dropdown2):
         return generate_table(df)
 
 
-    dff = df[df.ID.str.contains('|'.join(dropdown))]
+    dff = df[(df['Target_Group'].str.contains('|'.join(dropdown2))) & (df['ID'].str.contains('|'.join(dropdown)))]
     return generate_table(dff)
 
 
-
+@app.callback(
+    Output('result', 'children'),
+    [Input('customer_prob', 'value'), Input('slider', 'value')])
+def customer_order_prob(name, periods=1):
+    if name is not None:
+        try:
+            t = periods
+            individual = summary2.loc[name]
+            individual_id = summary2.loc[name].index
+            probability = bgf.predict(t, individual['frequency'], individual['recency'], individual['T'])
+            return('This customer will make {:.2f} repeat purchases over the course of '.format(probability) + str(periods) + ' months.')
+        except ValueError:
+            return 'Invalid Input'
 
 
 @app.callback(Output("tab_content", "children"), [Input("tabs", "value")])
