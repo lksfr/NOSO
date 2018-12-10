@@ -112,14 +112,14 @@ app.layout = html.Div([
                         html.H3("Customer Lifetime Value", style={"padding-left": "150px", "padding-right": "17px"}),
 
                         html.Div([
-                        dcc.Dropdown(id='dropdown', style={'width': '60%', "padding-left": "150px"}, options=[
+                        dcc.Dropdown(id='dropdown', style={'width': '90%', "padding-left": "15px"}, options=[
                             {'label': i, 'value': i} for i in df.ID.unique()
                             ], multi=True, placeholder='Filter by customer name...')
                         ], style={'width': '600px'}),
                         html.Br(),
 
                         html.Div([
-                        dcc.Dropdown(id='dropdown2', style={'width': '60%', "padding-left": "150px"}, options=[
+                        dcc.Dropdown(id='dropdown2', style={'width': '90%', "padding-left": "15px"}, options=[
                             {'label': i, 'value': i} for i in df.Target_Group.unique()
                             ], multi=True, placeholder='Filter by target group...')
 
@@ -140,7 +140,6 @@ app.layout = html.Div([
                         "border": "2px solid #4286f4", "margin-top": "20px"}
                     )
 
-             #   ])
                 ]),
 
                 dcc.Tab(label='Recommendation', 
@@ -154,33 +153,53 @@ app.layout = html.Div([
                         html.Link(href="https://fonts.googleapis.com/css?family=Ubuntu", rel="stylesheet"),
                         html.Link(href="https://cdn.rawgit.com/amadoukane96/8a8cfdac5d2cecad866952c52a70a50e/raw/cd5a9bf0b30856f4fc7e3812162c74bfc0ebe011/dash_crm.css", rel="stylesheet"),
 
-                        html.H3("Some CLV Analysis"),
                         ###########
-                        html.H1(children='US Jewerly House Dashboard - Basket Analysis by Line Item'),
+                        html.H3(children='US Jewerly House Dashboard - Sample Recommendation Engine by Line Item'),
 
-
-                        html.Label('Item(s) on Sale!'),
-                        dcc.Dropdown(
-                            id='dropdown3',
-                            options=[{'label': i, 'value': i} for i in usjh_AR['lineitem_name'].unique()],
-                            value='',
-                            multi=True
-                        ),
-                        html.Div(id='input3'),
-
-                        html.Label('Choose your item(s)'),
+                        html.Div([
+                            html.Br(),
+                            html.Label('Select inventory to get rid of'),
+                            html.Br(),
                             dcc.Dropdown(
-                            id='dropdown4',
-                            options=[{'label': i, 'value': i} for i in usjh_AR['lineitem_name'].unique()],
-                            value='',
-                            multi=True
-                        ),
-                        html.Div(id='input4'),
+                                id='dropdown3',
+                                options=[{'label': i, 'value': i} for i in usjh_AR['lineitem_name'].unique()],
+                                value='',
+                                multi=True
+                            ),
+                            html.Br(),
 
+                            html.Div(id='input3')                        
+                        ], style={"float":"left", "margin-top": "20px", "background-color": "white", "margin-right": "5%", "width": "25%", "padding-right": "20px", "padding-left": "20px", "border-radius": "25px",
+                            "border": "2px solid #4286f4", "height":"500px"}),
 
-                        html.H3("Customer Lifetime Value", style={"padding-left": "150px"}),
-                        html.Div(id='input5')
-                            ##############
+                        html.Div([
+                            html.Br(),
+                            html.Label('Items added to cart by customer'),
+                            html.Br(),
+                                dcc.Dropdown(
+                                id='dropdown4',
+                                options=[{'label': i, 'value': i} for i in usjh_AR['lineitem_name'].unique()],
+                                value='',
+                                multi=True
+                            ),
+                            html.Br(),
+
+                            html.Div(id='input4')                       
+                        ], style={"float":"left", "margin-top": "20px", "background-color": "white", "margin-right": "5%", "width": "25%", "padding-right": "20px", "padding-left": "20px", "border-radius": "25px",
+                            "border": "2px solid #4286f4","height":"500px"}),
+
+                        html.Div([
+                            html.Br(),
+                            html.Label("Items you may also be interested in:"),
+                            html.Br(),
+
+                            html.Div(id='input5'),
+                            html.Div(id='input6'),
+                            html.Div(id='input7')               
+                        ], style={"float":"left", "margin-top": "20px", "background-color": "white", "margin-right": "5%", "width": "25%", "padding-right": "20px", "padding-left": "20px", "border-radius": "25px",
+                          "border": "2px solid #4286f4","height":"500px"}),
+
+                        ##############
 
 
                     ])
@@ -223,9 +242,18 @@ def update_table(dropdown, dropdown2):
     if dropdown is None and dropdown2 is None:
         return df.to_dict("records")
 
+    elif dropdown is None:
+        dff = df[df["Target_Group"].str.contains('|'.join(dropdown2))]
+        return dff.to_dict("records")
+
+    elif dropdown2 is None:
+        dff = df[df["ID"].str.contains('|'.join(dropdown))]
+        return dff.to_dict("records")
+
     else:
         dff = df[(df["Target_Group"].str.contains('|'.join(dropdown2))) & (df["ID"].str.contains('|'.join(dropdown)))]
         return dff.to_dict("records")
+
 @app.callback(
     Output('result', 'children'),
     [Input('customer_prob', 'value'), Input('slider', 'value')])
@@ -256,14 +284,12 @@ def callback_a(dropdown_value):
 @app.callback(
     dash.dependencies.Output('input5', 'children'),
     [dash.dependencies.Input('dropdown3', 'value'),dash.dependencies.Input('dropdown4', 'value')])
-def prodcut_recommendation(dropdown3, dropdown4):
+def prodcut_recommendation(dropdown1, dropdown2):
 
-    if dropdown4==[]:
-        return 'Oops, your cart is empty.'
 
-    else:
-        sale=set(dropdown3)
-        order=set(dropdown4)
+
+        sale=set(dropdown1)
+        order=set(dropdown2)
 
         #create the data frame for sale
         s={'lineitem_name':[], 'vendor_category':[], 'frequency':[]}
@@ -314,10 +340,10 @@ def prodcut_recommendation(dropdown3, dropdown4):
         #if recommend is not empty, which means this is associated on item on sale, recommand the top 3
         if recommend != '':
             rec_items=sale[sale['vendor_category']==recommend].sort_values('frequency',ascending=False)
-            #if len(rec_items['lineitem_name'].unique())>3:
-            #rec_items=rec_items['lineitem_name'].unique()[:3]
-             #else:
-            rec_items=rec_items['lineitem_name'].unique()
+            if len(rec_items['lineitem_name'].unique())>3:
+                rec_items=rec_items['lineitem_name'].unique()[:3]
+            else:
+                rec_items=rec_items['lineitem_name'].unique()
         #if there is no on sale item, the recommend will be an empty string, 
         #then just simply choose the item with the highest support in rhs
         else :
@@ -325,12 +351,230 @@ def prodcut_recommendation(dropdown3, dropdown4):
     #now we have the final recommend, pick the specific items to make recommendation
     #find the lineitem name in recommend with top 3 frequency
         
-        rec_items=usjh_AR[usjh_AR['vendor_category']==recommend].sort_values('frequency',ascending=False).lineitem_name
+            rec_items=usjh_AR[usjh_AR['vendor_category']==recommend].sort_values('frequency',ascending=False).lineitem_name
     #there are a lot of duplicated items, get the unique top 3
-        rec_items=rec_items.unique()[:3]
+            rec_items=rec_items.unique()[:3]
 
-        return str(rec_items)
+        rec_items=rec_items.tolist()
 
+        #we want to alway recommend 3 items
+        x=usjh_AR[usjh_AR['vendor_category']==rhs.rhs.iloc[0]].sort_values('frequency',ascending=False).lineitem_name
+        x=x.unique()
+
+        dif=3-len(rec_items)
+
+        if dif==1:
+            rec_items.append(x[0])
+        elif dif==2:
+            rec_items.append(x[0])
+            rec_items.append(x[1])
+        else:
+            rec_items=rec_items[:3]
+        #create result string
+        result=[]
+        for item in rec_items:
+            if item in sale['lineitem_name'].tolist():
+                result.append(item+' is on SALE!')
+            else:
+                result.append(item)
+
+        return result[0]
+
+@app.callback(
+    dash.dependencies.Output('input6', 'children'),
+    [dash.dependencies.Input('dropdown3', 'value'),dash.dependencies.Input('dropdown4', 'value')])
+def prodcut_recommendation(dropdown1, dropdown2):
+
+
+        sale=set(dropdown1)
+        order=set(dropdown2)
+
+        #create the data frame for sale
+        s={'lineitem_name':[], 'vendor_category':[], 'frequency':[]}
+        for item in sale:
+            s['lineitem_name'].append(item)
+            s['vendor_category'].append(usjh_AR[usjh_AR['lineitem_name']==item].vendor_category.iloc[0])
+            s['frequency'].append(usjh_AR[usjh_AR['lineitem_name']==item].frequency.iloc[0])
+        
+        sale=pd.DataFrame(s)
+        #
+        #creat (vendor:category) basing on sale and order
+        sale_vc=[]
+        for item in sale['lineitem_name']:
+            sale_vc.append(usjh_AR[usjh_AR['lineitem_name']==item].vendor_category.iloc[0])
+        
+        sale_vc=set(sale_vc)
+        #
+        order_vc=[]
+        for item in order:
+            order_vc.append(usjh_AR[usjh_AR['lineitem_name']==item].vendor_category.iloc[0])
+        
+        order_vc=set(order_vc)
+        #
+        #recommendation basing on the highest support 
+        #lookup the association rules
+        assoc_rules={'rhs':[], 'support':[]}
+
+        for item in order_vc:
+            if len(rules_[rules_['lhs']==item].rhs)>0: #some items have no rules_
+                assoc_rules['rhs'].append(rules_[rules_['lhs']==item].rhs.iloc[0])
+                assoc_rules['support'].append(rules_[rules_['lhs']==item].support.iloc[0])
+
+        assoc_rules=pd.DataFrame(assoc_rules)
+
+        rhs=assoc_rules.sort_values('support', ascending=False)
+
+        #check if there is on sale item
+        recommend=''
+        r_support=0
+        for item in rhs['rhs']:
+        #if there are items on sale in rhs, return the one with the greatest support
+            if item in sale_vc:
+                if rhs[rhs['rhs']==item].support.iloc[0] > r_support:
+                    recommend=item
+                    r_support=rhs[rhs['rhs']==item].support.iloc[0]
+
+        #make recommendations basing on recommend
+        #if recommend is not empty, which means this is associated on item on sale, recommand the top 3
+        if recommend != '':
+            rec_items=sale[sale['vendor_category']==recommend].sort_values('frequency',ascending=False)
+            if len(rec_items['lineitem_name'].unique())>3:
+                rec_items=rec_items['lineitem_name'].unique()[:3]
+            else:
+                rec_items=rec_items['lineitem_name'].unique()
+        #if there is no on sale item, the recommend will be an empty string, 
+        #then just simply choose the item with the highest support in rhs
+        else :
+            recommend=rhs['rhs'].iloc[0]
+    #now we have the final recommend, pick the specific items to make recommendation
+    #find the lineitem name in recommend with top 3 frequency
+        
+            rec_items=usjh_AR[usjh_AR['vendor_category']==recommend].sort_values('frequency',ascending=False).lineitem_name
+    #there are a lot of duplicated items, get the unique top 3
+            rec_items=rec_items.unique()[:3]
+
+        rec_items=rec_items.tolist()
+
+        #we want to alway recommend 3 items
+        x=usjh_AR[usjh_AR['vendor_category']==rhs.rhs.iloc[0]].sort_values('frequency',ascending=False).lineitem_name
+        x=x.unique()
+
+        dif=3-len(rec_items)
+
+        if dif==1:
+            rec_items.append(x[0])
+        elif dif==2:
+            rec_items.append(x[0])
+            rec_items.append(x[1])
+        else:
+            rec_items=rec_items[:3]
+        #create result string
+        result=[]
+        for item in rec_items:
+            if item in sale['lineitem_name'].tolist():
+                result.append(item+' is on SALE!')
+            else:
+                result.append(item)
+
+        return result[1]
+
+@app.callback(
+    dash.dependencies.Output('input7', 'children'),
+    [dash.dependencies.Input('dropdown3', 'value'),dash.dependencies.Input('dropdown4', 'value')])
+def prodcut_recommendation(dropdown1, dropdown2):
+
+
+        sale=set(dropdown1)
+        order=set(dropdown2)
+
+        #create the data frame for sale
+        s={'lineitem_name':[], 'vendor_category':[], 'frequency':[]}
+        for item in sale:
+            s['lineitem_name'].append(item)
+            s['vendor_category'].append(usjh_AR[usjh_AR['lineitem_name']==item].vendor_category.iloc[0])
+            s['frequency'].append(usjh_AR[usjh_AR['lineitem_name']==item].frequency.iloc[0])
+        
+        sale=pd.DataFrame(s)
+        #
+        #creat (vendor:category) basing on sale and order
+        sale_vc=[]
+        for item in sale['lineitem_name']:
+            sale_vc.append(usjh_AR[usjh_AR['lineitem_name']==item].vendor_category.iloc[0])
+        
+        sale_vc=set(sale_vc)
+        #
+        order_vc=[]
+        for item in order:
+            order_vc.append(usjh_AR[usjh_AR['lineitem_name']==item].vendor_category.iloc[0])
+        
+        order_vc=set(order_vc)
+        #
+        #recommendation basing on the highest support 
+        #lookup the association rules
+        assoc_rules={'rhs':[], 'support':[]}
+
+        for item in order_vc:
+            if len(rules_[rules_['lhs']==item].rhs)>0: #some items have no rules_
+                assoc_rules['rhs'].append(rules_[rules_['lhs']==item].rhs.iloc[0])
+                assoc_rules['support'].append(rules_[rules_['lhs']==item].support.iloc[0])
+
+        assoc_rules=pd.DataFrame(assoc_rules)
+
+        rhs=assoc_rules.sort_values('support', ascending=False)
+
+        #check if there is on sale item
+        recommend=''
+        r_support=0
+        for item in rhs['rhs']:
+        #if there are items on sale in rhs, return the one with the greatest support
+            if item in sale_vc:
+                if rhs[rhs['rhs']==item].support.iloc[0] > r_support:
+                    recommend=item
+                    r_support=rhs[rhs['rhs']==item].support.iloc[0]
+
+        #make recommendations basing on recommend
+        #if recommend is not empty, which means this is associated on item on sale, recommand the top 3
+        if recommend != '':
+            rec_items=sale[sale['vendor_category']==recommend].sort_values('frequency',ascending=False)
+            if len(rec_items['lineitem_name'].unique())>3:
+                rec_items=rec_items['lineitem_name'].unique()[:3]
+            else:
+                rec_items=rec_items['lineitem_name'].unique()
+        #if there is no on sale item, the recommend will be an empty string, 
+        #then just simply choose the item with the highest support in rhs
+        else :
+            recommend=rhs['rhs'].iloc[0]
+    #now we have the final recommend, pick the specific items to make recommendation
+    #find the lineitem name in recommend with top 3 frequency
+        
+            rec_items=usjh_AR[usjh_AR['vendor_category']==recommend].sort_values('frequency',ascending=False).lineitem_name
+    #there are a lot of duplicated items, get the unique top 3
+            rec_items=rec_items.unique()[:3]
+
+        rec_items=rec_items.tolist()
+
+        #we want to alway recommend 3 items
+        x=usjh_AR[usjh_AR['vendor_category']==rhs.rhs.iloc[0]].sort_values('frequency',ascending=False).lineitem_name
+        x=x.unique()
+
+        dif=3-len(rec_items)
+
+        if dif==1:
+            rec_items.append(x[0])
+        elif dif==2:
+            rec_items.append(x[0])
+            rec_items.append(x[1])
+        else:
+            rec_items=rec_items[:3]
+        #create result string
+        result=[]
+        for item in rec_items:
+            if item in sale['lineitem_name'].tolist():
+                result.append(item+' is on SALE!')
+            else:
+                result.append(item)
+
+        return result[2]
 
 if __name__ == "__main__":
     app.run_server(debug=True)
