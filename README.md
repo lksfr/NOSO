@@ -1,1 +1,1 @@
-# Data Science COnsulting Project
+# Data Science Consulting Project
